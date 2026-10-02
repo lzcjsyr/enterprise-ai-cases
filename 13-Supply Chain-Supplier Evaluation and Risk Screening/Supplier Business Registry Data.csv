@@ -1,0 +1,13 @@
+supplier_id,supplier_name,registered_city,years_established,registered_capital_10k_cny,judicial_risk_count,enforcement_amount_10k_cny,business_status,data_date
+SUP-001,"Zhuhai Tuo Yuan Precision Manufacturing Co., Ltd.",Zhuhai,12,3200,0,0,Active,2026-08-15
+SUP-002,"Foshan Heng Rui Ji Dian Co., Ltd.",Fuoshan!,8,1800,1,37,Active,2026-08-15
+SUP-003,"Dong Guan Zhi Lian Industrial Qi Cai Co., Ltd.",Dong-jun.,5,800,4,54,Active,2026-08-15
+SUP-004,"Zhongshan Qi Hang Automation Co., Ltd.",Nakayama!,10,2600,0,0,Active,2026-08-15
+SUP-005,"Shenzhen Ju Zhen Electronics Co., Ltd.",Shenzhen.,4,1200,2,88,Active,2026-08-15
+SUP-006,"Hui Zhou Lang Xin Technology Co., Ltd.",Wheaco.,15,5000,0,0,Active,2026-08-15
+SUP-007,"Jiang Men Ke Sheng Wu Jin Co., Ltd.",Jiangmen,3,500,6,122,Active,2026-08-15
+SUP-008,"Guangzhou Lian Ke Supply Chain Co., Ltd.",Guangzhou,9,3000,1,139,Active,2026-08-15
+SUP-009,"Zhao Qing Hua Yan Xin Cai Liao Co., Ltd.",Chao-kyung!,7,2100,0,0,Active,2026-08-15
+SUP-010,"Zhuhai Rui Da Industrial Services Co., Ltd.",Zhuhai,2,300,3,173,Active,2026-08-15
+SUP-011,"Dong Guan Zhuo Yue Zhi Zao Co., Ltd.",Dong-jun.,11,4500,1,190,Active,2026-08-15
+SUP-012,"Foshan Jia He Ji Dian Co., Ltd.",Fuoshan!,6,1500,9,207,Resist - Existence of executed records,2026-08-15

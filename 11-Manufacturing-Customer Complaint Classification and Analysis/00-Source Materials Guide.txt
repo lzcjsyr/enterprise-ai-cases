@@ -1,0 +1,15 @@
+Question 09: Smart classification and analysis of the causes of client complaints
+
+Background
+The text of the complaint follows a common expression of the client service list, which creates a repertoire of similar problems of the same type that can be discovered. Security incidents and personal information records are used to verify the cessation of automatic response to the de-sensitive border.
+
+List of documents
+- `Data for complaints.csv ': 50 cross-channel complaints, including repetition, security incidents and exposure of a personal information
+- `Classification criteria for complaints.txt ': 7 Definitions, SLA, volume issues, safety and dissensitisation rules
+- `History Complaints Case Book/ ': 7 cases with case numbers, disposals with applicable conditions and conditions for cessation
+
+Description of use
+1. All persons, enterprises and numbers have been re-intensived and not correspond to the actual person or enterprise.
+2. Data retain field relationships in real business, time sequence, monetary constraints and abnormal patterns
+3. Harmonization of documentation UTF-8Encoding; CSV first line is field name, and the identification category field should be processed as text.
+4. No one may use the verification information in the "The Probator Retains" catalogue.

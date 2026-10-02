@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cafeteria April Purchase Analysis</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin:0; background:#F4F6F9; color:#2B2B2B;
+          font-family:"Microsoft YaHei","PingFang SC","Hiragino Sans GB",sans-serif; }
+  .wrap { max-width:880px; margin:32px auto; padding:0 20px; }
+  .card { background:#FFFFFF; border:1px solid #E5E8EE; border-radius:10px;
+           box-shadow:0 2px 10px rgba(0,0,0,.04); padding:28px 32px; }
+  h1 { font-size:22px; margin:0 0 4px; color:#1F2D3D; font-weight:700; }
+  .sub { font-size:13px; color:#8A94A6; margin:0 0 22px; }
+  .grid { display:flex; gap:36px; align-items:center; flex-wrap:wrap; }
+  .chart { flex:0 0 auto; }
+  .legend { flex:1 1 320px; min-width:300px; }
+  table { width:100%; border-collapse:collapse; font-size:14px; }
+  th, td { padding:9px 10px; border-bottom:1px solid #EEF1F5; }
+  th { text-align:left; color:#6B7686; font-weight:600; font-size:13px;
+        border-bottom:2px solid #D9DEE7; }
+  td.num, th.num { text-align:right; font-variant-numeric:tabular-nums; }
+  td.lname { font-weight:600; color:#33404F; }
+  .dot { display:inline-block; width:12px; height:12px; border-radius:3px; margin-right:8px; vertical-align:middle; }
+  tfoot td { font-weight:700; border-top:2px solid #D9DEE7; border-bottom:none; color:#1F2D3D; }
+  .total { font-size:15px; color:#6B7686; margin-top:18px; }
+  .total b { color:#1F2D3D; font-size:17px; }
+  @media print { body { background:#fff; } .card { box-shadow:none; border:none; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="card">
+    <h1>Cafeteria April Purchase Analysis</h1>
+    <p class="sub">Period: April 2026 | Source: April cafeteria purchases, summarized by ingredient category</p>
+    <div class="grid">
+      <div class="chart">
+        <svg width="340" height="340" viewBox="0 0 340 340" role="img" aria-label="Pie chart showing purchase amounts by ingredient category">
+          <path d="M 170 170 L 170.00 30.00 A 140 140 0 1 1 140.12 306.77 Z" fill="#C0504D" stroke="#FFFFFF" stroke-width="1.5"/>
+<path d="M 170 170 L 140.12 306.77 A 140 140 0 0 1 32.35 144.44 Z" fill="#4F81BD" stroke="#FFFFFF" stroke-width="1.5"/>
+<path d="M 170 170 L 32.35 144.44 A 140 140 0 0 1 81.85 61.24 Z" fill="#9BBB59" stroke="#FFFFFF" stroke-width="1.5"/>
+<path d="M 170 170 L 81.85 61.24 A 140 140 0 0 1 152.68 31.08 Z" fill="#E0A030" stroke="#FFFFFF" stroke-width="1.5"/>
+<path d="M 170 170 L 152.68 31.08 A 140 140 0 0 1 160.74 30.31 Z" fill="#8064A2" stroke="#FFFFFF" stroke-width="1.5"/>
+<path d="M 170 170 L 160.74 30.31 A 140 140 0 0 1 161.69 30.25 Z" fill="#4BACC6" stroke="#FFFFFF" stroke-width="1.5"/>
+<path d="M 170 170 L 161.69 30.25 A 140 140 0 0 1 170.00 30.00 Z" fill="#A9A9A9" stroke="#FFFFFF" stroke-width="1.5"/>
+          <text x="170" y="164" text-anchor="middle" font-size="14" fill="#6B7686">Total Spend</text>
+          <text x="170" y="188" text-anchor="middle" font-size="22" font-weight="700" fill="#1F2D3D">¥44,218.51</text>
+        </svg>
+      </div>
+      <div class="legend">
+        <table>
+          <thead>
+            <tr><th></th><th>Ingredient Category</th><th class="num">Amount (CNY)</th><th class="num">Share</th><th class="num">Line Items</th></tr>
+          </thead>
+          <tbody>
+<tr><td><span class="dot" style="background:#C0504D"></span></td><td class="lname">Meat and Seafood</td><td class="num">23,623.06</td><td class="num">53.42%</td><td class="num">330</td></tr>
+<tr><td><span class="dot" style="background:#4F81BD"></span></td><td class="lname">Vegetables and Side Dishes</td><td class="num">10,832.95</td><td class="num">24.50%</td><td class="num">639</td></tr>
+<tr><td><span class="dot" style="background:#9BBB59"></span></td><td class="lname">Staples</td><td class="num">4,969.10</td><td class="num">11.24%</td><td class="num">123</td></tr>
+<tr><td><span class="dot" style="background:#E0A030"></span></td><td class="lname">Grains, Oil, and Seasonings</td><td class="num">3,920.40</td><td class="num">8.87%</td><td class="num">58</td></tr>
+<tr><td><span class="dot" style="background:#8064A2"></span></td><td class="lname">Beverage Ingredients</td><td class="num">407.00</td><td class="num">0.92%</td><td class="num">10</td></tr>
+<tr><td><span class="dot" style="background:#4BACC6"></span></td><td class="lname">Packaging</td><td class="num">48.00</td><td class="num">0.11%</td><td class="num">2</td></tr>
+<tr><td><span class="dot" style="background:#A9A9A9"></span></td><td class="lname">Low-Value Consumables</td><td class="num">418.00</td><td class="num">0.95%</td><td class="num">8</td></tr>
+
+          </tbody>
+          <tfoot>
+            <tr><td></td><td>Total</td><td class="num">44,218.51</td><td class="num">100.00%</td><td class="num">1170</td></tr>
+          </tfoot>
+        </table>
+      </div>
+    </div>
+    <p class="total">Across  <b>1170</b>  purchase line items across  <b>7</b>  ingredient categories; total spend  <b>¥44,218.51</b>.</p>
+  </div>
+</div>
+</body>
+</html>

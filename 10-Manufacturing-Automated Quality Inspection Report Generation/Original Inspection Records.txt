@@ -1,0 +1,92 @@
+Product: oat nut cereal bar (35g/swidth)
+Specific version of the test: QS-GBAR-02  V2.0
+Recorder: Quality examiner Q-017(Deremic number)
+Record date: 2026-08-20
+
+Batch: GB260815-A
+Date of production: 2026-08-15
+Production line: L1
+Sample: 20
+Sensor: qualified
+Net content of 10 (g): 35.2, 35, 34.8, 35.4, 35, 34, 9, 35.3, 35, 34, 7, 35.2
+Water (g) 100g):11.4
+Acid price (mg/g): 3.6
+Peroxide (g/ 100g):0.18
+Total number of bacterial species 5 (CFU/g): 4200 5100 8300 9600 7100
+Ecstalbular strains of 5 (CFU/g): 2,3,5,4,2
+Salmonella 5 samples: undetected, undetected, undetected, undetected, undetected
+
+---
+
+Batch: GB260816-B
+Date of production: 2026-08-16
+Production line: L2
+Sample: 20
+Sensor: qualified
+Net content of 10(g): 35.1, 34.9, 35, 35.2, 34.8, 35.1, 35, 34, 9, 35.2, 34.7
+Water (g) 100g):12.3
+Acid price (mg/g): 3.9
+Peroxide (g/ 100g):0.19
+Total number of bacterial species 5 (CFU/g): 5,200,6800,7400,8900,9100
+Ecstalms: 5, 2, 4, 3, 2, 5
+Salmonella 5 samples: undetected, undetected, undetected, undetected, undetected
+
+---
+
+Batch: GB260817-C
+Date of production: 2026-08-17
+Production line: L1
+Sample: 20
+Sensor: qualified
+Net content of 10(g): 35,35.2, 34.9, 35.1, 35.3, 34.8, 35, 35.2, 34.9, 35.1
+Water (g) 100g):11.8
+Acid price (mg/g): 5.4
+Peroxide (g/ 100g):0.23
+Total number of bacterial species 5 (CFU/g): 4200,12800,8600,9300,7200
+Ecstalcular strains: 5,7,2,4
+Salmonella 5 samples: undetected, undetected, undetected, undetected, undetected
+
+---
+
+Batch: GB260818-D
+Date of production: 2026-08-18
+Production line: L3
+Sample: 20
+Sensor: qualified
+Net content of 10(g): 34.8, 34.9, 35, 34.7, 34.9, 35.1, 35, 34.8, 34.9, 35
+Water (g) 100g):11.7
+Acid price (mg/g): 3.5
+Peroxide (g/ 100g):0.27
+5 species of bacteria (CFU/g): 8800,12000,15000,9200,8100
+Entire entropy 5 (CFU/g): 4,18,22,6,5
+Salmonella 5 samples: undetected, undetected, undetected, undetected, undetected
+
+---
+
+Batch: GB260819-E
+Date of production: 2026-08-19
+Production line: L2
+Sample: 20
+Sensor: It smells like a little halama.
+Net content of 10(g): 35.2,35.1,35,34.9,35.1,35.2,34.8,35,35.135
+Water (g) 100g):11.9
+Acid price (mg/g): 4.2
+Peroxide (g/ 100g):0.22
+5 strains of bacteria (CFU/g): 7800 9200 11000 8,400 7900
+Ecstalms 5 (CFU/g): 2,4,3,5,2
+Salmonella 5 samples: undetected, undetected, undetected, undetected, undetected
+
+---
+
+Batch: GB260820-F
+Date of production: 2026-08-20
+Production line: L1
+Sample: 20
+Sensor: qualified
+Net content of 10 (g): 35.1, 35, 34, 9, 35.2, 35, 34, 8, 35, 1, 35, 34, 9, 35.2
+Water (g) 100g):11.5
+Acid price (mg/g):
+Peroxide (g/ 100g):0.2
+Total number of bacterial species 5 (CFU/g): 4800,6200,7300,8100 9,000
+Ecstalbular strains of 5 (CFU/g): 2, 3, 4, 3, 2,
+Salmonella 5 samples: undetected, undetected, undetected, undetected, undetected

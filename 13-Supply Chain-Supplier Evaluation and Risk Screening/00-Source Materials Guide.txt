@@ -1,0 +1,17 @@
+Question 07: Vendor assessment and risk screening
+
+Background
+Four copies of the data use supplier id to stabilize connections, including the absence of a history of new suppliers, expired certificates, abnormally low prices, major quality accidents and high judicial risks.
+
+List of documents
+- `Supplier ' Quoting Table.csv ': 12 suppliers with taxable quotations for the same material, due and payable
+- `Supplier history'. csv ': orders, punctuality, quality pass, return rate and major accidents
+- `Supplier qualification list.csv ': validity and verification of certificate-by-certificate
+- `Supplier business information.csv ': age of establishment, registered business and judicial risk snapshot
+- `Supplier scoring rules.txt ': 5D scoring, classification thresholds and red line rules
+
+Description of use
+1. All persons, enterprises and numbers have been re-intensived and not correspond to the actual person or enterprise.
+2. Data retain field relationships in real business, time sequence, monetary constraints and abnormal patterns
+3. Harmonization of documentation UTF-8Encoding; CSV first line is field name, and the identification category field should be processed as text.
+4. No one may use the verification information in the "The Probator Retains" catalogue.

@@ -1,0 +1,15 @@
+Question 04: Compliance of the cost reimbursement form Nuclear
+
+Background
+The data included normal reimbursements, inconsistent amounts, duplicate invoices, superstandards, missing approvals and overbudgets, etc., which could explain anomalies; all anomalies could be traced back to the terms of the system or to the original records...
+
+List of documents
+- `Reimbursement forms.csv ': 36 invoices with invoice numbers, approval numbers and records of reimbursement for business matters
+- `Reimbursable system.txt ': reimbursable scope, single limits, duplication and budgetary rules
+- `Sectoral budget.csv ': monthly budget for 6 departments, expenditure already appropriated and remaining
+
+Description of use
+1. All persons, enterprises and numbers have been re-intensived and not correspond to the actual person or enterprise.
+2. Data retain field relationships in real business, time sequence, monetary constraints and abnormal patterns
+3. Harmonization of documentation UTF-8Encoding; CSV first line is field name, and the identification category field should be processed as text.
+4. No one may use the verification information in the "The Probator Retains" catalogue.

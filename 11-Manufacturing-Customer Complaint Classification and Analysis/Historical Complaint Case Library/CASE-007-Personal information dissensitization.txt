@@ -1,0 +1,3 @@
+Case Ref: CASE-007
+Applicable category: All
+The last four telephone calls are kept, with ID numbers and detailed addresses not entering the model output; the response is handled using the complaint number, without using complete personal information.

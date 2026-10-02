@@ -1,0 +1,13 @@
+supplier_id,supplier_name,material_code,currency,unit_price_tax_included,tax_rate,annual_moq,lead_time_days,payment_terms,quote_valid_until
+SUP-001,"Zhuhai Tuo Yuan Precision Manufacturing Co., Ltd.",MAT-SERVO-750W,CNY,980,0.13,600,12,30 days of moon.,2026-09-10
+SUP-002,"Foshan Heng Rui Ji Dian Co., Ltd.",MAT-SERVO-750W,CNY,1017,0.13,600,15,45 days of moon.,2026-09-11
+SUP-003,"Dong Guan Zhi Lian Industrial Qi Cai Co., Ltd.",MAT-SERVO-750W,CNY,1054,0.13,600,18,30% advance + 70% arrival,2026-09-12
+SUP-004,"Zhongshan Qi Hang Automation Co., Ltd.",MAT-SERVO-750W,CNY,1091,0.13,600,21,60 days of moon.,2026-09-13
+SUP-005,"Shenzhen Ju Zhen Electronics Co., Ltd.",MAT-SERVO-750W,CNY,1128,0.13,600,24,30 days of moon.,2026-09-14
+SUP-006,"Hui Zhou Lang Xin Technology Co., Ltd.",MAT-SERVO-750W,CNY,1005,0.13,600,27,45 days of moon.,2026-09-15
+SUP-007,"Jiang Men Ke Sheng Wu Jin Co., Ltd.",MAT-SERVO-750W,CNY,865,0.13,600,12,30% advance + 70% arrival,2026-09-16
+SUP-008,"Guangzhou Lian Ke Supply Chain Co., Ltd.",MAT-SERVO-750W,CNY,1079,0.13,600,15,60 days of moon.,2026-09-17
+SUP-009,"Zhao Qing Hua Yan Xin Cai Liao Co., Ltd.",MAT-SERVO-750W,CNY,1116,0.13,600,18,30 days of moon.,2026-09-18
+SUP-010,"Zhuhai Rui Da Industrial Services Co., Ltd.",MAT-SERVO-750W,CNY,993,0.13,600,21,45 days of moon.,2026-09-19
+SUP-011,"Dong Guan Zhuo Yue Zhi Zao Co., Ltd.",MAT-SERVO-750W,CNY,1030,0.13,600,24,30% advance + 70% arrival,2026-09-20
+SUP-012,"Foshan Jia He Ji Dian Co., Ltd.",MAT-SERVO-750W,CNY,910,0.13,600,27,60 days of moon.,2026-09-21

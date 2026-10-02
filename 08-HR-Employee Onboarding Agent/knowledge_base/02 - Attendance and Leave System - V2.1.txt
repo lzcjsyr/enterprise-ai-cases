@@ -1,0 +1,12 @@
+Document name: Attendance and leave management system
+Document symbol: ZX-HR-006
+Version: V2.1
+Entry into force: 2026-08-01
+Department of Human Resources
+
+Article 2.1 Standard working hours are 09:00-1200, 1330-1800 working days; the manufacturing of field jobs is carried out on a schedule.
+Article 2.2. The non-subjective reasons for the delay in the application of immunity, which is permitted twice a month and does not exceed 10 minutes each, must still be communicated on the same day.
+Article 3.1 Leave shall be approved by the immediate manager within 1 day of submission through OA; Over one to three days of approval by department head; over three days of additional HR approval.
+Rule 3.2 Emergency sick leave may be reported orally and paid within 2 working days of return from duty.
+Article 3.3 Annual leave is granted on the basis of the available balances shown by the system, in principle three working days in advance of request...
+Article 5.1. The provisions of the Staff Manual or old circular that do not coincide with the time off for attendance are discontinued after the entry into force of this system.

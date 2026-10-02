@@ -1,0 +1,22 @@
+Assessment: V1.2 (2026-08-20 effective)
+
+I. Total score formula
+= skills match x 40% + experience match x 30% + education and basic capacity x 20% + evidence quality and collaborative capacity x 10%.
+The dimensions are rated at 0-100 points, then converted to weights; the total score is 1 decimal.
+
+Two, score anchor.
+Skills matching: RG, hint, Agent/Workflow, API, five-category assessment capabilities. 18-22 points per class of verifiable project evidence; key words only but not full score without context.
+2. Experience matching: B end product years, AI-related years, 0-1 projects, manufacturing/supply chain scenes. De minimisation on actual evidence when the post is under-age.
+3. Education and basic competence: 60 points for the academic attainment base; SQL/Python, relevant specialization, which is more than possible, and data analysis capabilities... do not receive a direct rating at the post-graduate level.
+4. Evidence quality and collaborative capacity: quantitative indicators need to be accompanied by baseline, statistical cycle and individual responsibility; absence of a single item is to be validated.
+
+III. Recommended conclusions
+- 85-100: Prioritization of interviews
+- 70-84.9: Recommended interviews
+- 60-69.9: Option, with additional information required
+- 60 below: not recommended
+
+Four, abnormal treatment.
+- Missing key fields: keep fields empty and generate additional information lists.
+- It's a bit exaggerated: quote the original, but not the "false" conclusion, and list the interview clearances.
+- Conflict of scoring: hard conditions are preferred; model interpretation should not cover clear rules...

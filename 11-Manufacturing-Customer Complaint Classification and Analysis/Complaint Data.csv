@@ -1,0 +1,51 @@
+complaint_id,order_id,product_model,channel,complaint_date,complaint_content,customer_level,batch_no
+VOC-2608-001,ORD-2608-0001,XT-S1,400 hotlines,2026-08-02,"Charges are still off for an hour, and the main button hasn't responded.",Individual clients,S1-2607-A
+VOC-2608-002,ORD-2608-0002,XT-H2,Public,2026-08-03,The outer box was flattened and the frame was broken.,Individual clients,XTH2-2607-A
+VOC-2608-003,ORD-2608-0003,XT-S1,The door store.,2026-08-04,There's no charge line in the package.,Individual clients,S1-2607-B
+VOC-2608-004,ORD-2608-0004,XT-B3,Mail,2026-08-05,"The first time I got Bluetooth, my phone was never found, how should I set it up?",Individual clients,XTB3-2607-A
+VOC-2608-005,ORD-2608-0005,XT-H2,Electrician platform,2026-08-06,"When it was closed, two scratches were found on the lower right corner of the screen.",Individual clients,XTH2-2607-A
+VOC-2608-006,ORD-2608-0006,XT-K5,400 hotlines,2026-08-07,"The shell smells obvious after two weeks, but it's working for now.",Individual clients,XTK5-2607-A
+VOC-2608-007,ORD-2608-0007,XT-B3,Public,2026-08-08,"The match is still broken every few minutes, as indicated, and has been restarted once as suggested by the client, and the problem remains.",Individual clients,XTB3-2607-A
+VOC-2608-008,ORD-2608-0008,XT-S1,The door store.,2026-08-09,"Charges are still off for an hour, and the main button hasn't responded.",Individual clients,S1-2607-A
+VOC-2608-009,ORD-2608-0009,XT-S1,Mail,2026-08-10,"XT-S1The smell of charred on the charge, the visible heat at the bottom and the small amount of white smoke, I stopped using it.",Individual clients,XTH2-2607-A
+VOC-2608-010,ORD-2608-0010,XT-S1,Electrician platform,2026-08-11,There's no charge line in the package.,Corporate clients,S1-2607-A
+VOC-2608-011,ORD-2608-0011,XT-B3,400 hotlines,2026-08-12,"The first time I got Bluetooth, my phone was never found, how should I set it up?",Individual clients,XTB3-2607-A
+VOC-2608-012,ORD-2608-0012,XT-H2,Public,2026-08-13,"When it was closed, two scratches were found on the lower right corner of the screen.",Individual clients,XTH2-2607-A
+VOC-2608-013,ORD-2608-0013,XT-K5,The door store.,2026-08-14,"The shell smells obvious after two weeks, but it's working for now.",Individual clients,XTK5-2607-A
+VOC-2608-014,ORD-2608-0014,XT-B3,Mail,2026-08-15,"The match is still broken every few minutes, as indicated, and has been restarted once as suggested by the client, and the problem remains.",Individual clients,XTB3-2607-A
+VOC-2608-015,ORD-2608-0015,XT-S1,Electrician platform,2026-08-16,"Charges are still off for an hour, and the main button hasn't responded.",Individual clients,S1-2607-B
+VOC-2608-016,ORD-2608-0016,XT-S1,400 hotlines,2026-08-17,"XT-S1The smell of charred on the charge, the visible heat at the bottom and the small amount of white smoke, I stopped using it.",Individual clients,XTH2-2607-A
+VOC-2608-017,ORD-2608-0017,XT-S1,Public,2026-08-18,There's no charge line in the package.,Individual clients,S1-2607-A
+VOC-2608-018,ORD-2608-0007,XT-B3,The door store.,2026-08-01,"The first time I got Bluetooth, my phone was never found, how should I set it up?",Individual clients,XTB3-2607-A
+VOC-2608-019,ORD-2608-0019,XT-H2,Mail,2026-08-02,"When it was closed, two scratches were found on the lower right corner of the screen.",Individual clients,XTH2-2607-A
+VOC-2608-020,ORD-2608-0020,XT-K5,Electrician platform,2026-08-03,"The shell smells obvious after two weeks, but it's working for now.",Corporate clients,XTK5-2607-A
+VOC-2608-021,ORD-2608-0021,XT-B3,400 hotlines,2026-08-04,"The match is still broken every few minutes, as indicated, and has been restarted once as suggested by the client, and the problem remains.",Individual clients,XTB3-2607-A
+VOC-2608-022,ORD-2608-0022,XT-S1,Public,2026-08-05,"Charges are still off for an hour, and the main button hasn't responded.",Individual clients,S1-2607-A
+VOC-2608-023,ORD-2608-0023,XT-S1,The door store.,2026-08-06,"XT-S1The smell of charred on the charge, the visible heat at the bottom and the small amount of white smoke, I stopped using it.",Individual clients,XTH2-2607-A
+VOC-2608-024,ORD-2608-0024,XT-S1,Mail,2026-08-07,There's no charge line in the package.,Individual clients,S1-2607-B
+VOC-2608-025,ORD-2608-0025,XT-B3,Electrician platform,2026-08-08,"The first time I got Bluetooth, my phone was never found, how should I set it up?",Individual clients,XTB3-2607-A
+VOC-2608-026,ORD-2608-0026,XT-H2,400 hotlines,2026-08-09,"When it was closed, two scratches were found on the lower right corner of the screen.",Individual clients,XTH2-2607-A
+VOC-2608-027,ORD-2608-0027,XT-K5,Public,2026-08-10,"The shell smells obvious after two weeks, but it's working for now.",Individual clients,XTK5-2607-A
+VOC-2608-028,ORD-2608-0028,XT-B3,The door store.,2026-08-11,"The match is still broken every few minutes, as indicated, and has been restarted once as suggested by the client, and the problem remains.",Individual clients,XTB3-2607-A
+VOC-2608-029,ORD-2608-0029,XT-S1,Mail,2026-08-12,"Charges are still off for an hour, and the main button hasn't responded.",Individual clients,S1-2607-A
+VOC-2608-030,ORD-2608-0030,XT-H2,Electrician platform,2026-08-13,The outer box was flattened and the frame was broken.,Corporate clients,XTH2-2607-A
+VOC-2608-031,ORD-2608-0031,XT-S1,400 hotlines,2026-08-14,"Orders are twice missing. Contact me for 138XXXXXX78, located at 5 1203 on the Cheonzhou Zone, Joohai City.",Individual clients,S1-2607-A
+VOC-2608-032,ORD-2608-0032,XT-B3,Public,2026-08-15,"The first time I got Bluetooth, my phone was never found, how should I set it up?",Individual clients,XTB3-2607-A
+VOC-2608-033,ORD-2608-0033,XT-H2,The door store.,2026-08-16,"When it was closed, two scratches were found on the lower right corner of the screen.",Individual clients,XTH2-2607-A
+VOC-2608-034,ORD-2608-0034,XT-K5,Mail,2026-08-17,"The shell smells obvious after two weeks, but it's working for now.",Individual clients,XTK5-2607-A
+VOC-2608-035,ORD-2608-0035,XT-B3,Electrician platform,2026-08-18,"The match is still broken every few minutes, as indicated, and has been restarted once as suggested by the client, and the problem remains.",Individual clients,XTB3-2607-A
+VOC-2608-036,ORD-2608-0036,XT-S1,400 hotlines,2026-08-01,"Charges are still off for an hour, and the main button hasn't responded.",Individual clients,S1-2607-B
+VOC-2608-037,ORD-2608-0037,XT-H2,Public,2026-08-02,The outer box was flattened and the frame was broken.,Individual clients,XTH2-2607-A
+VOC-2608-038,ORD-2608-0038,XT-S1,The door store.,2026-08-03,There's no charge line in the package.,Individual clients,S1-2607-A
+VOC-2608-039,ORD-2608-0039,XT-B3,Mail,2026-08-04,"The first time I got Bluetooth, my phone was never found, how should I set it up?",Individual clients,XTB3-2607-A
+VOC-2608-040,ORD-2608-0040,XT-H2,Electrician platform,2026-08-05,"When it was closed, two scratches were found on the lower right corner of the screen.",Corporate clients,XTH2-2607-A
+VOC-2608-041,ORD-2608-0041,XT-K5,400 hotlines,2026-08-06,"The shell smells obvious after two weeks, but it's working for now.",Individual clients,XTK5-2607-A
+VOC-2608-042,ORD-2608-0042,XT-B3,Public,2026-08-07,It's not a product problem. I'd like to consult with the old equipment.,Individual clients,XTB3-2607-A
+VOC-2608-043,ORD-2608-0043,XT-S1,The door store.,2026-08-08,"Charges are still off for an hour, and the main button hasn't responded.",Individual clients,S1-2607-A
+VOC-2608-044,ORD-2608-0044,XT-H2,Mail,2026-08-09,The outer box was flattened and the frame was broken.,Individual clients,XTH2-2607-A
+VOC-2608-045,ORD-2608-0045,XT-S1,Electrician platform,2026-08-10,There's no charge line in the package.,Individual clients,S1-2607-B
+VOC-2608-046,ORD-2608-0046,XT-B3,400 hotlines,2026-08-11,"The first time I got Bluetooth, my phone was never found, how should I set it up?",Individual clients,XTB3-2607-A
+VOC-2608-047,ORD-2608-0047,XT-H2,Public,2026-08-12,"When it was closed, two scratches were found on the lower right corner of the screen.",Individual clients,XTH2-2607-A
+VOC-2608-048,ORD-2608-0048,XT-K5,The door store.,2026-08-13,"The shell smells obvious after two weeks, but it's working for now.",Individual clients,XTK5-2607-A
+VOC-2608-049,ORD-2608-0049,XT-B3,Mail,2026-08-14,"The match is still broken every few minutes, as indicated, and has been restarted once as suggested by the client, and the problem remains.",Individual clients,XTB3-2607-A
+VOC-2608-050,ORD-2608-0050,XT-S1,Electrician platform,2026-08-15,"Charges are still off for an hour, and the main button hasn't responded.",Corporate clients,S1-2607-A

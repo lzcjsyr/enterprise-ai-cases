@@ -1,0 +1,10 @@
+Rule version: SUP-SCORE-V1. 3
+
+Total score = 25 points for offer competitiveness + 20 points for delivery + 25 points for quality + 15 points for qualification + 15 points for business risk.
+1. Quoting: 25 points for the lowest valid offer and = 25 points for other suppliers; mark "Extra-low review" when the price is clearly below 15 per cent or more of the median price.
+2. Delivery: an punctual rate of 98 per cent or more; 20 minutes; 95-97.99 per cent or 17 minutes; 90-94.99 per cent or 13 minutes; less than 90 per cent or 7 minutes; no historical data of 8 points and markings to be fully adjusted.
+3. Quality: 99 per cent or more, 25 per cent; 98 per cent-98.99 per cent or 22 per cent; 96 per cent-97.99 per cent or 17 per cent; less than 96 per cent or 9 per cent; and four points or the minimum of 0 per major quality incident for nearly 12 months; No historical data 10 points and tagging to be done.
+4. Qualifications: ISO9001The first time I was in the country, I was in the middle of a fight. IATF16949The first time I was in the country, I was in the middle of a fight. ISO14001The first time I was in the country, I was a little bit surprised. ISO450012 points valid; expired certificates shall not be counted...
+5. Business risk: 0.15 minutes for judicial risk; 1-2.12 minutes for judicial risk; 3-5.8 minutes for articles 3 and 3 above; 5 points for cases where execution records are in place and the amount exceeds $1 million, with a minimum of 0 points.
+
+Classification: Total 85 points and above and no red line is recommended; 70-84.99 is considered; 70 points below are not recommended. The qualification is expired. No fewer than two major quality incidents are performed with a value of over $1 million in red line, which must be reviewed manually and not merely recommended on the basis of the total score.

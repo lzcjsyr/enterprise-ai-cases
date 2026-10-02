@@ -1,0 +1,3 @@
+Case Ref: CASE-003
+Applicable category: missing accessories
+Processing: Checking the packing list, order batches and case opening photographs; confirming missing replacements. Key components such as chargers cannot be replaced with incompatible models.

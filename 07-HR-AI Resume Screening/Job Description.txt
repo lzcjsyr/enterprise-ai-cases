@@ -1,0 +1,30 @@
+Name of position: AI Product Manager (Intelligence Direction of Enterprise)
+Job No.: HR-AIPM-2608
+Duty station: Chuhai (site office at least 3 days a week)
+Reporting audience: Director of Enterprise Applications
+
+Job assignment
+The intelligent body products of business clients, such as manufacturing, retailing, and so forth, from demand insight, programme design, prototype validation to the full life cycle of the up-line redisk, promoting the ability of large models to produce measurable business values.
+
+Main duties
+1. Independent completion of client interviews, business process alignment, demand priority management and product road map development
+2. Designing RAG knowledge base questions and answers, structured information extraction, workflow and manual review mechanisms
+3. Preparation of PRDs, prototypes, acceptance standards and data indicators, coordination algorithms, research and development, testing and implementation team delivery...
+4. Planning model impact assessment, attention to accuracy, recall rate, hallucination rate, response delay and single call cost.
+5. Implementation of minimization of data, control of authority and traceability requirements in personnel, financial and quality scenarios
+
+Post requirements
+- Subjects and above, computers, information management, industrial engineering, statistics or related professions.
+- More than three years of B-end product experience, of which at least one year of AI, large model or data product experience...
+- familiar with the hints, RG, AG, AG/Workflow, at least three of the API integrations, which explain the boundary that applies.
+- Have access from 0 to 1 and can provide quantitative indicators, personal responsibility and proof of duplication.
+- Clear documentation, cross-sectoral enablers and client communication capabilities...
+
+Priority conditions
+- Experience in manufacturing, supply chain or business service projects
+- Model assessments, knowledge base governance or AI security governance.
+- to complete the basic analysis with SQL or Python.
+
+Hard Limit
+- No reduction due to age, sex, origin, marital status, etc., which is not related to the ability to perform a job.
+- The missing information should be marked "to be verified" and not automatically extrapolated.

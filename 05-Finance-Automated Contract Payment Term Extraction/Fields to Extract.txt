@@ -1,0 +1,15 @@
+Extracted version: PAY-EXTRACT-V1. 1
+
+The following fields are to be drawn from each contract:
+1. Contract number and contract name
+Total amount of tax contract, currency, rate of tax
+3. Proportion of advance payments, amounts, trigger conditions
+4. Milestone payment nodes: ratio, amount, trigger terms and payment period
+5. Proportion of Quality Bond, Amount, Conditions for Release
+6. Prepayment materials: invoices, acceptance orders, statements, etc.
+7. Default clauses: persons to whom they apply, base figure, day ratio and ceiling
+8. Evidence of original language: clause and not more than 120 words of original language
+9. Confidence: High = clause clear and amounts verifiable; medium = calculation required across clause or ambiguity; low = no found or conflicting.
+
+(a) Currency verification: the sum of the payment nodes and the Quality Guarantee should be equal to the total contract amount; The total ratio should be 100 per cent. Separately if the difference is rounded.
+Missing fields must be exported "unfinished" and cannot be supplemented according to industry practice.

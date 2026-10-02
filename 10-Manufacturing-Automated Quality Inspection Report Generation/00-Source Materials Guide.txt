@@ -1,0 +1,15 @@
+Question 10: Automatically generate a quality report
+
+Background
+Data are structured according to quality check of food enterprises, which include satisfactory, hydrologic excesses, acid overprice, peroxide over-limit, sensory incompetence and missing key results, micro-organisms using a single determination.
+
+List of documents
+- `Quality check original records.txt ': 6 batches of sensory, net content, physicochemical and microbiological raw results
+- `Medical Review Report Template.txt ': Report Fields, Numbering, Conclusions and Restructured
+- `Standard Knowledge Base/ ': Current Product Standards, Sampling SOP, Unqualified Quality Programs and Historical Version Indications
+
+Description of use
+1. All persons, enterprises and numbers have been re-intensived and not correspond to the actual person or enterprise.
+2. Data retain field relationships in real business, time sequence, monetary constraints and abnormal patterns
+3. Harmonization of documentation UTF-8Encoding; CSV first line is field name, and the identification category field should be processed as text.
+4. No one may use the verification information in the "The Probator Retains" catalogue.

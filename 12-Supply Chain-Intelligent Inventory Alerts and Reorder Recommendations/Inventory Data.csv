@@ -1,0 +1,521 @@
+sku_id,sku_name,category,buyer_team,warehouse,supplier_id,on_hand_qty,reserved_qty,in_transit_qty,safety_stock_qty,lead_time_days,min_order_qty,unit_cost_cny,shelf_life_days,data_time
+SKU-00001,Small household electricity - light - 001,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,346,26,0,225,10,24,12.7,,2026-08-20 08:00
+SKU-00002,Digital accessories -- upgrade -- 002,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,1414,62,0,616,17,36,17.4,,2026-08-20 08:00
+SKU-00003,Home collection - family dress - 003,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,3903,246,0,1189,24,48,22.1,,2026-08-20 08:00
+SKU-00004,Cleaning items -- portable -- 004,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,565,46,0,168,9,60,26.8,,2026-08-20 08:00
+SKU-00005,Food beverages - standard - 005,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,1176,120,0,525,16,72,31.5,270,2026-08-20 08:00
+SKU-00006,Outdoor supplies -- light -- 006,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,518,31,0,1064,23,84,36.2,,2026-08-20 08:00
+SKU-00007,Maternal and Child Supplies - Upgrading - 007,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,318,22,59,117,8,96,40.9,,2026-08-20 08:00
+SKU-00008,Office supplies -- home-based -- 008,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,696,38,0,440,15,12,45.6,,2026-08-20 08:00
+SKU-00009,Small household electricity -- portable -- 009,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,3217,373,0,945,22,24,50.3,,2026-08-20 08:00
+SKU-00010,Digital accessories -- standard-010,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,184,8,0,72,7,36,55,,2026-08-20 08:00
+SKU-00011,Home income -- light money-011,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,223,12,0,361,14,48,59.7,,2026-08-20 08:00
+SKU-00012,Cleaning supplies -- upgrades-012,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,2732,132,0,832,21,60,64.4,,2026-08-20 08:00
+SKU-00013,Food beverages - household clothing - 013,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,35,3,0,33,6,72,69.1,270,2026-08-20 08:00
+SKU-00014,Outdoor supplies -- portable cash-014,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,374,38,144,288,13,84,73.8,,2026-08-20 08:00
+SKU-00015,Mother and child supplies -- standard provision-015,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,1901,7,0,725,20,96,78.5,,2026-08-20 08:00
+SKU-00016,Office supplies -- light-weight -- 016,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,543,23,0,420,5,12,83.2,,2026-08-20 08:00
+SKU-00017,Small household electricity -- upgrades 017,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,181,6,0,221,12,24,87.9,,2026-08-20 08:00
+SKU-00018,Digital accessories -- household fittings-018,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,1477,136,0,624,19,36,92.6,,2026-08-20 08:00
+SKU-00019,Home-based income - portable cash - 019,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,544,8,0,351,4,48,97.3,,2026-08-20 08:00
+SKU-00020,Cleaning supplies -- standard section -- 020,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,197,4,0,160,11,60,102,,2026-08-20 08:00
+SKU-00021,Food beverages - light - 021,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,1015,27,265,529,18,72,106.7,270,2026-08-20 08:00
+SKU-00022,Outdoor supplies -- upgrades -- 022,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,513,59,0,288,3,84,111.4,,2026-08-20 08:00
+SKU-00023,Mother and child supplies -- home fittings-023,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,318,22,0,105,10,96,116.1,,2026-08-20 08:00
+SKU-00024,Office supplies -- portable -- 024,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,1022,89,0,440,17,12,120.8,,2026-08-20 08:00
+SKU-00025,Small household electricity - standard - 025,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,3426,188,0,957,24,24,125.5,,2026-08-20 08:00
+SKU-00026,Digital accessories -- light -- 026,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,110,4,0,56,9,36,130.2,,2026-08-20 08:00
+SKU-00027,Home income -- promotions - 027,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,1100,39,0,357,16,48,134.9,,2026-08-20 08:00
+SKU-00028,Cleaning items -- home fittings -- 028,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,502,50,420,840,23,60,139.6,,2026-08-20 08:00
+SKU-00029,Food beverages - portable -- 029,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,1022,103,0,559,8,72,144.3,270,2026-08-20 08:00
+SKU-00030,Outdoor supplies -- standard section-030,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,598,47,0,280,15,84,149,,2026-08-20 08:00
+SKU-00031,Mother and child supplies -- light-weight -- 031,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,678,6,0,729,22,96,153.7,,2026-08-20 08:00
+SKU-00032,Office supplies -- upgrades -- 032,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,805,36,0,480,7,12,158.4,,2026-08-20 08:00
+SKU-00033,Small household electricity -- home-based equipment-033,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,479,13,0,209,14,24,163.1,,2026-08-20 08:00
+SKU-00034,Digital accessories -- portable cash-034,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,953,96,0,624,21,36,167.8,,2026-08-20 08:00
+SKU-00035,Home collection -- standard-cost-035,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,898,86,204,407,6,48,8,,2026-08-20 08:00
+SKU-00036,Cleaning supplies -- light-weight -- 036,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,229,4,0,144,13,60,12.7,,2026-08-20 08:00
+SKU-00037,Food beverages -- upgrades 037,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,518,30,0,525,20,72,17.4,270,2026-08-20 08:00
+SKU-00038,Outdoor items -- household-038,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,871,76,0,340,5,84,22.1,,2026-08-20 08:00
+SKU-00039,Mother and child supplies -- portable cash-039,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,250,9,0,85,12,96,26.8,,2026-08-20 08:00
+SKU-00040,Office supplies -- standard section -- 040,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,1190,15,0,432,19,12,31.5,,2026-08-20 08:00
+SKU-00041,Small household electricity - light - 041,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,989,54,0,279,4,24,36.2,,2026-08-20 08:00
+SKU-00042,Digital accessories -- upgrade -- 042,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,41,0,16,32,11,36,40.9,,2026-08-20 08:00
+SKU-00043,Home collection - family clothing - 043,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,804,43,0,345,18,48,45.6,,2026-08-20 08:00
+SKU-00044,Cleaning items -- portable -- 044,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,269,0,0,224,3,60,50.3,,2026-08-20 08:00
+SKU-00045,Food beverages - standard - 045,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,1716,204,0,615,10,72,55,270,2026-08-20 08:00
+SKU-00046,Outdoor supplies -- light -- 046,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,861,0,0,264,17,84,59.7,,2026-08-20 08:00
+SKU-00047,Maternal and Child Supplies - Upgrading - 047,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,575,5,0,725,24,96,64.4,,2026-08-20 08:00
+SKU-00048,Office supplies -- household clothing-048,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,1358,120,0,532,9,12,69.1,,2026-08-20 08:00
+SKU-00049,Small home electricity -- portable -- 049,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,217,24,95,189,16,24,73.8,,2026-08-20 08:00
+SKU-00050,Digital accessories -- standard -- 050,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,847,9,0,616,23,36,78.5,,2026-08-20 08:00
+SKU-00051,Home income - light - 051,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,1661,10,0,455,8,48,83.2,,2026-08-20 08:00
+SKU-00052,Cleaning supplies -- upgrades -- 052,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,341,6,0,120,15,60,87.9,,2026-08-20 08:00
+SKU-00053,Food beverages - family clothing-053,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,534,9,0,513,22,72,92.6,270,2026-08-20 08:00
+SKU-00054,Outdoor supplies -- portable -- 054,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,473,16,0,384,7,84,97.3,,2026-08-20 08:00
+SKU-00055,Maternal and Child Supplies - Standard - 055,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,47,1,0,57,14,96,102,,2026-08-20 08:00
+SKU-00056,Office supplies -- light -- 056,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,529,5,208,416,21,12,106.7,,2026-08-20 08:00
+SKU-00057,Small household electricity - upgrades - 057,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,541,31,0,319,6,24,111.4,,2026-08-20 08:00
+SKU-00058,Digital accessories -- home-based-058,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,1555,80,0,756,13,36,116.1,,2026-08-20 08:00
+SKU-00059,Home receipt - portable cash - 059,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,1030,52,0,325,20,48,120.8,,2026-08-20 08:00
+SKU-00060,Cleaning supplies -- standard section -- 060,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,908,44,0,260,5,60,125.5,,2026-08-20 08:00
+SKU-00061,Food beverages - light - 061,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,2984,280,0,663,12,72,130.2,270,2026-08-20 08:00
+SKU-00062,Outdoor supplies -- upgrade -- 062,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,738,34,0,240,19,84,134.9,,2026-08-20 08:00
+SKU-00063,Mother and child supplies - home fitting - 063,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,728,46,104,207,4,96,139.6,,2026-08-20 08:00
+SKU-00064,Office supplies -- portable -- 064,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,1333,154,0,576,11,12,144.3,,2026-08-20 08:00
+SKU-00065,Small household electricity - standard - 065,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,353,38,0,161,18,24,149,,2026-08-20 08:00
+SKU-00066,Digital accessories -- light -- 066,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,562,0,0,160,3,36,153.7,,2026-08-20 08:00
+SKU-00067,Home-based income -- promotion - 067,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,536,24,0,495,10,48,158.4,,2026-08-20 08:00
+SKU-00068,Cleaning items -- home-based suits-068,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,297,21,0,88,17,60,163.1,,2026-08-20 08:00
+SKU-00069,Food beverages - portable - 069,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,239,20,0,493,24,72,167.8,270,2026-08-20 08:00
+SKU-00070,Outdoor supplies -- standard section -- 070,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,1088,17,210,420,9,84,8,,2026-08-20 08:00
+SKU-00071,Mother and child supplies - light - 071,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,1356,135,0,903,16,96,12.7,,2026-08-20 08:00
+SKU-00072,Office supplies -- upgrades -- 072,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,1050,23,0,392,23,12,17.4,,2026-08-20 08:00
+SKU-00073,Small household electricity - home fittings - 073,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,996,2,0,351,8,24,22.1,,2026-08-20 08:00
+SKU-00074,Digital accessories -- portable -- 074,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,2190,163,0,800,15,36,26.8,,2026-08-20 08:00
+SKU-00075,Home income - standard - 075,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,236,20,0,297,22,48,31.5,,2026-08-20 08:00
+SKU-00076,Cleaning supplies -- light -- 076,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,769,50,0,288,7,60,36.2,,2026-08-20 08:00
+SKU-00077,Food beverages - upgrades - 077,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,1460,124,352,703,14,72,40.9,270,2026-08-20 08:00
+SKU-00078,Outdoor items - household fittings - 078,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,661,25,0,208,21,84,45.6,,2026-08-20 08:00
+SKU-00079,Mother and Child Supplies - Portable - 079,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,321,36,0,231,6,96,50.3,,2026-08-20 08:00
+SKU-00080,Office supplies -- standard section -- 080,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,1570,104,0,612,13,12,55,,2026-08-20 08:00
+SKU-00081,Small household electricity - light - 081,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,79,6,0,125,20,24,59.7,,2026-08-20 08:00
+SKU-00082,Digital accessories -- upgrade -- 082,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,565,6,0,180,5,36,64.4,,2026-08-20 08:00
+SKU-00083,Home-based income-family clothing-083,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,1319,46,0,527,12,48,69.1,,2026-08-20 08:00
+SKU-00084,Cleaning items -- portable -- 084,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,77,0,24,48,19,60,73.8,,2026-08-20 08:00
+SKU-00085,Food beverages - standard - 085,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,124,9,0,135,4,72,78.5,270,2026-08-20 08:00
+SKU-00086,Outdoor supplies -- light -- 086,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,823,76,0,448,11,84,83.2,,2026-08-20 08:00
+SKU-00087,Maternal and Child Supplies - Upgrading - 087,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,3177,248,0,943,18,96,87.9,,2026-08-20 08:00
+SKU-00088,Office supplies -- household clothing-088,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,209,22,0,96,3,12,92.6,,2026-08-20 08:00
+SKU-00089,Small home electricity - portable -089,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,812,55,0,375,10,24,97.3,,2026-08-20 08:00
+SKU-00090,Digital accessories -- standard -- 090,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,1427,39,0,836,17,36,102,,2026-08-20 08:00
+SKU-00091,Home-based income - light - 091,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,838,87,131,261,24,48,106.7,,2026-08-20 08:00
+SKU-00092,Cleaning supplies -- upgrades -- 092,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,1090,120,0,308,9,60,111.4,,2026-08-20 08:00
+SKU-00093,Food beverages - home dressing-093,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,2648,89,0,735,16,72,116.1,270,2026-08-20 08:00
+SKU-00094,Outdoor supplies -- portable -- 094,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,132,4,0,168,23,84,120.8,,2026-08-20 08:00
+SKU-00095,Maternal and Child Supplies - Standard - 095,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,309,29,0,247,8,96,125.5,,2026-08-20 08:00
+SKU-00096,Office supplies -- light -- 096,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,1091,130,0,640,15,12,130.2,,2026-08-20 08:00
+SKU-00097,Small household electricity - upgrade - 097,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,102,7,0,81,22,24,134.9,,2026-08-20 08:00
+SKU-00098,Digital accessories -- home fittings-098,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,355,36,96,192,7,36,139.6,,2026-08-20 08:00
+SKU-00099,Home receipt -- portable -- 099,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,1715,56,0,551,14,48,144.3,,2026-08-20 08:00
+SKU-00100,Cleaning materials -- standard -- 100,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,2515,293,0,1092,21,60,149,,2026-08-20 08:00
+SKU-00101,Food beverages - light - 101,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,106,5,0,143,6,72,153.7,270,2026-08-20 08:00
+SKU-00102,Outdoor supplies -- upgrades - 102,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,268,23,0,468,13,84,158.4,,2026-08-20 08:00
+SKU-00103,Maternal and Child Supplies - Home-based Equipping - 103,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,1584,32,0,975,20,96,163.1,,2026-08-20 08:00
+SKU-00104,Office supplies -- portable -- 104,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,136,11,0,100,5,12,167.8,,2026-08-20 08:00
+SKU-00105,Small household electricity - standard - 105,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,502,38,196,391,12,24,8,,2026-08-20 08:00
+SKU-00106,Digital accessories -- light -- 106,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,487,44,0,864,19,36,12.7,,2026-08-20 08:00
+SKU-00107,Home-based income - promotion - 107,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,152,5,0,63,4,48,17.4,,2026-08-20 08:00
+SKU-00108,Cleaning items -- home-based fittings-108,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,414,1,0,320,11,60,22.1,,2026-08-20 08:00
+SKU-00109,Food beverages - portables - 109,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,1606,190,0,759,18,72,26.8,270,2026-08-20 08:00
+SKU-00110,Outdoor supplies -- standard section 110,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,34,3,0,32,3,84,31.5,,2026-08-20 08:00
+SKU-00111,Mother and Child Supplies - Light Sector 111,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,383,27,0,255,10,96,36.2,,2026-08-20 08:00
+SKU-00112,Office supplies -- upgrades-112,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,880,84,330,660,17,12,40.9,,2026-08-20 08:00
+SKU-00113,Small household electricity - home-based-113,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,3070,143,0,1247,24,24,45.6,,2026-08-20 08:00
+SKU-00114,Digital accessories -- portable funds-114,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,544,59,0,196,9,36,50.3,,2026-08-20 08:00
+SKU-00115,Home collection -- standard 115,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,454,24,0,567,16,48,55,,2026-08-20 08:00
+SKU-00116,Cleaning supplies -- light-weight-116,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,3835,417,0,1120,23,60,59.7,,2026-08-20 08:00
+SKU-00117,Food beverages - upgrades - 117,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,411,19,0,143,8,72,64.4,270,2026-08-20 08:00
+SKU-00118,Outdoor items -- home-based equipment-118,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,298,21,0,480,15,84,69.1,,2026-08-20 08:00
+SKU-00119,Mother and Child Supplies - Portables 119,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,999,96,500,999,22,96,73.8,,2026-08-20 08:00
+SKU-00120,Office supplies -- standard section 120,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,153,15,0,96,7,12,78.5,,2026-08-20 08:00
+SKU-00121,Small household electricity - light sector 121,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,1124,25,0,399,14,24,83.2,,2026-08-20 08:00
+SKU-00122,Digital accessories -- upgrades 122,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,3978,382,0,884,21,36,87.9,,2026-08-20 08:00
+SKU-00123,Home-based income - household clothing 123,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,41,1,0,55,6,48,92.6,,2026-08-20 08:00
+SKU-00124,Cleaning items -- portables 124,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,958,90,0,324,13,60,97.3,,2026-08-20 08:00
+SKU-00125,Food beverages - standard section 125,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,633,4,0,775,20,72,102,270,2026-08-20 08:00
+SKU-00126,Outdoor supplies -- light-weight 126,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,53,2,10,20,5,84,106.7,,2026-08-20 08:00
+SKU-00127,Maternal and Child Supplies - Upgrade Section 127,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,883,81,0,255,12,96,111.4,,2026-08-20 08:00
+SKU-00128,Office supplies -- household clothing-128,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,529,51,0,672,19,12,116.1,,2026-08-20 08:00
+SKU-00129,Small home electricity - portable cash 129,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,305,7,0,369,4,24,120.8,,2026-08-20 08:00
+SKU-00130,Digital accessories -- standard section 130,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,594,68,0,192,11,36,125.5,,2026-08-20 08:00
+SKU-00131,Home-based income - light-weight - 131,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,1545,159,0,575,18,48,130.2,,2026-08-20 08:00
+SKU-00132,Cleaning supplies -- upgrades - 132,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,480,33,0,304,3,60,134.9,,2026-08-20 08:00
+SKU-00133,Food beverages - family clothing - 133,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,294,20,68,135,10,72,139.6,270,2026-08-20 08:00
+SKU-00134,Outdoor supplies -- portable -- 134,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,452,9,0,484,17,84,144.3,,2026-08-20 08:00
+SKU-00135,Maternal and Child Supplies - Standard - 135,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,1184,69,0,1015,24,96,149,,2026-08-20 08:00
+SKU-00136,Office supplies -- light -- 136,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,289,17,0,84,9,12,153.7,,2026-08-20 08:00
+SKU-00137,Small household electricity - upgrades - 137,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,934,109,0,399,16,24,158.4,,2026-08-20 08:00
+SKU-00138,Digital accessories -- home fittings-138,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,2287,152,0,896,23,36,163.1,,2026-08-20 08:00
+SKU-00139,Home receipt - portable cash - 139,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,109,8,0,39,8,48,167.8,,2026-08-20 08:00
+SKU-00140,Cleaning supplies -- standard section -- 140,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,695,50,160,320,15,60,8,,2026-08-20 08:00
+SKU-00141,Food beverages - light-weight 141,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,609,32,0,783,22,72,12.7,270,2026-08-20 08:00
+SKU-00142,Outdoor supplies -- upgrades 142,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,288,4,0,504,7,84,17.4,,2026-08-20 08:00
+SKU-00143,Mother and child supplies - home-based equipment 143,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,826,43,0,247,14,96,22.1,,2026-08-20 08:00
+SKU-00144,Office supplies -- portables - 144,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,2179,244,0,676,21,12,26.8,,2026-08-20 08:00
+SKU-00145,Small household electricity - standard - 145,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,698,2,0,429,6,24,31.5,,2026-08-20 08:00
+SKU-00146,Digital accessories -- light,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,650,76,0,180,13,36,36.2,,2026-08-20 08:00
+SKU-00147,Home collection - promotions - 147,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,1085,109,288,575,20,48,40.9,,2026-08-20 08:00
+SKU-00148,Cleaning items -- household clothing - 148,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,868,55,0,360,5,60,45.6,,2026-08-20 08:00
+SKU-00149,Food beverages - portables - 149,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,238,21,0,119,12,72,50.3,270,2026-08-20 08:00
+SKU-00150,Outdoor supplies -- standard section 150,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,529,6,0,480,19,84,55,,2026-08-20 08:00
+SKU-00151,Mother and child supplies - light-weight 151,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,189,20,0,297,4,96,59.7,,2026-08-20 08:00
+SKU-00152,Office supplies -- upgrades 152,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,126,6,0,64,11,12,64.4,,2026-08-20 08:00
+SKU-00153,Small household electricity -- home-based 153,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,189,15,0,391,18,24,69.1,,2026-08-20 08:00
+SKU-00154,Digital accessories -- portable funds-154,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,400,25,120,240,3,36,73.8,,2026-08-20 08:00
+SKU-00155,Home collection - standard - 155,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,1172,97,0,645,10,48,78.5,,2026-08-20 08:00
+SKU-00156,Cleaning supplies -- light-weight 156,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,276,22,0,308,17,60,83.2,,2026-08-20 08:00
+SKU-00157,Food beverages - upgrades 157,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,1968,196,0,783,24,72,87.9,270,2026-08-20 08:00
+SKU-00158,Outdoor items -- household equipment 158,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,632,26,0,560,9,84,92.6,,2026-08-20 08:00
+SKU-00159,Mother and child supplies - portables 159,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,290,7,0,231,16,96,97.3,,2026-08-20 08:00
+SKU-00160,Office supplies -- standard section -- 160,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,970,35,0,672,23,12,102,,2026-08-20 08:00
+SKU-00161,Small household electricity - light - 161,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,342,10,241,481,8,24,106.7,,2026-08-20 08:00
+SKU-00162,Digital accessories -- upgrades 162,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,275,18,0,160,15,36,111.4,,2026-08-20 08:00
+SKU-00163,Home-based income-family clothing-163,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,662,42,0,567,22,48,116.1,,2026-08-20 08:00
+SKU-00164,Cleaning materials -- portables 164,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,1072,44,0,408,7,60,120.8,,2026-08-20 08:00
+SKU-00165,Food beverages - standard section - 165,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,48,5,0,95,14,72,125.5,270,2026-08-20 08:00
+SKU-00166,Outdoor supplies -- light-weight-166,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,1148,27,0,468,21,84,130.2,,2026-08-20 08:00
+SKU-00167,Mother and child supplies -- upgrades 167,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,201,16,0,341,6,96,134.9,,2026-08-20 08:00
+SKU-00168,Office supplies -- household furniture-168,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,125,12,18,36,13,12,139.6,,2026-08-20 08:00
+SKU-00169,Small household electricity - portable - 169,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,341,1,0,375,20,24,144.3,,2026-08-20 08:00
+SKU-00170,Digital accessories -- standard -- 170,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,661,25,0,280,5,36,149,,2026-08-20 08:00
+SKU-00171,Home-based income - light-weight,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,1212,98,0,697,12,48,153.7,,2026-08-20 08:00
+SKU-00172,Cleaning supplies -- upgrades 172,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,865,89,0,288,19,60,158.4,,2026-08-20 08:00
+SKU-00173,Food beverages - household-173,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,216,12,0,225,4,72,163.1,270,2026-08-20 08:00
+SKU-00174,Outdoor supplies -- portable funds 174,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,286,33,0,608,11,84,167.8,,2026-08-20 08:00
+SKU-00175,Maternal and child supplies -- standard section 175,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,755,53,104,207,18,96,8,,2026-08-20 08:00
+SKU-00176,Office supplies -- light,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,606,29,0,176,3,12,12.7,,2026-08-20 08:00
+SKU-00177,Small household electricity - upgrades 177,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,1510,64,0,525,10,24,17.4,,2026-08-20 08:00
+SKU-00178,Digital accessories -- home-based equipment-78,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,291,6,0,132,17,36,22.1,,2026-08-20 08:00
+SKU-00179,Home receipt -- portable cash - 179,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,1174,61,0,551,24,48,26.8,,2026-08-20 08:00
+SKU-00180,Cleaning materials -- standard section - 180,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,279,17,0,448,9,60,31.5,,2026-08-20 08:00
+SKU-00181,Food beverages - lightweight - 181,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,157,13,0,63,16,72,36.2,270,2026-08-20 08:00
+SKU-00182,Outdoor supplies -- upgrade -- 182,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,1516,177,224,448,23,84,40.9,,2026-08-20 08:00
+SKU-00183,Mother and child supplies -- household equipment-183,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,1697,54,0,377,8,96,45.6,,2026-08-20 08:00
+SKU-00184,Office supplies -- portables 184,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,2657,86,0,840,15,12,50.3,,2026-08-20 08:00
+SKU-00185,Small household electricity - standard - 185,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,707,45,0,351,22,24,55,,2026-08-20 08:00
+SKU-00186,Digital accessories -- light-weight -- 186,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,948,47,0,312,7,36,59.7,,2026-08-20 08:00
+SKU-00187,Home collection -- promotions 187,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,699,9,0,741,14,48,64.4,,2026-08-20 08:00
+SKU-00188,Cleaning items -- home-based equipment-188,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,200,15,0,260,21,60,69.1,,2026-08-20 08:00
+SKU-00189,Food beverages - portable - 189,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,123,13,127,253,6,72,73.8,270,2026-08-20 08:00
+SKU-00190,Outdoor supplies -- standard section 190,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,2198,139,0,648,13,84,78.5,,2026-08-20 08:00
+SKU-00191,Mother and child supplies - light-weight 191,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,441,1,0,175,20,96,83.2,,2026-08-20 08:00
+SKU-00192,Office supplies -- upgrades 192,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,246,22,0,200,5,12,87.9,,2026-08-20 08:00
+SKU-00193,Small household electricity -- home-based 193,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,1865,193,0,561,12,24,92.6,,2026-08-20 08:00
+SKU-00194,Digital accessories -- portables-194,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,334,14,0,96,19,36,97.3,,2026-08-20 08:00
+SKU-00195,Home income - standard - 195,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,486,2,0,153,4,48,102,,2026-08-20 08:00
+SKU-00196,Cleaning items -- light-weight 196,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,577,40,240,480,11,60,106.7,,2026-08-20 08:00
+SKU-00197,Food beverages - upgrades 197,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,3120,165,0,989,18,72,111.4,270,2026-08-20 08:00
+SKU-00198,Outdoor items -- household kits - 198,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,258,28,0,112,3,84,116.1,,2026-08-20 08:00
+SKU-00199,Mother and child supplies -- portables 199,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,785,18,0,405,10,96,120.8,,2026-08-20 08:00
+SKU-00200,Office supplies -- standard section 200,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,2320,48,0,880,17,12,125.5,,2026-08-20 08:00
+SKU-00201,Small household electricity - light - 201,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,703,56,0,319,24,24,130.2,,2026-08-20 08:00
+SKU-00202,Digital accessories -- upgrades 202,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,705,25,0,336,9,36,134.9,,2026-08-20 08:00
+SKU-00203,Home-based income-family clothing 203,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,800,49,389,777,16,48,139.6,,2026-08-20 08:00
+SKU-00204,Cleaning materials -- portables 204,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,305,21,0,224,23,60,144.3,,2026-08-20 08:00
+SKU-00205,Food and beverages - standard 205,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,736,53,0,273,8,72,149,270,2026-08-20 08:00
+SKU-00206,Outdoor supplies -- light-weight 206,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,1290,78,0,680,15,84,153.7,,2026-08-20 08:00
+SKU-00207,Maternal and child supplies -- upgrades 207,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,362,2,0,135,22,96,158.4,,2026-08-20 08:00
+SKU-00208,Office supplies -- home-based equipment 208,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,603,60,0,216,7,12,163.1,,2026-08-20 08:00
+SKU-00209,Small home electricity -- portables 209,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,267,8,0,589,14,24,167.8,,2026-08-20 08:00
+SKU-00210,Digital accessories -- standard section 210,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,38,2,26,52,21,36,8,,2026-08-20 08:00
+SKU-00211,Home-based income - light-weight,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,446,45,0,165,6,48,12.7,,2026-08-20 08:00
+SKU-00212,Cleaning supplies -- upgrades 212,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,1392,165,0,504,13,60,17.4,,2026-08-20 08:00
+SKU-00213,Food beverages - household clothing - 213,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,927,78,0,1025,20,72,22.1,270,2026-08-20 08:00
+SKU-00214,Outdoor supplies -- portable funds 214,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,96,6,0,120,5,84,26.8,,2026-08-20 08:00
+SKU-00215,Maternal and child supplies -- standard section 215,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,1418,161,0,425,12,96,31.5,,2026-08-20 08:00
+SKU-00216,Office supplies -- light-weight 216,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,3185,26,0,912,19,12,36.2,,2026-08-20 08:00
+SKU-00217,Small household electricity - upgrades 217,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,249,28,41,81,4,24,40.9,,2026-08-20 08:00
+SKU-00218,Digital accessories -- home-based equipment 218,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,401,24,0,352,11,36,45.6,,2026-08-20 08:00
+SKU-00219,Home-based cash-in-hand 219,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,2896,130,0,805,18,48,50.3,,2026-08-20 08:00
+SKU-00220,Cleaning supplies -- standard section 220,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,39,0,0,48,3,60,55,,2026-08-20 08:00
+SKU-00221,Food beverages - light-weights - 221,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,794,6,0,285,10,72,59.7,270,2026-08-20 08:00
+SKU-00222,Outdoor supplies -- upgrades 222,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,552,27,0,704,17,84,64.4,,2026-08-20 08:00
+SKU-00223,Mother and child supplies -- household clothing - 223,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,219,4,0,87,24,96,69.1,,2026-08-20 08:00
+SKU-00224,Office supplies -- portables 224,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,748,15,112,224,9,12,73.8,,2026-08-20 08:00
+SKU-00225,Small household electricity - standard - 225,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,1380,11,0,609,16,24,78.5,,2026-08-20 08:00
+SKU-00226,Digital accessories -- light-weight 226,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,2297,100,0,1176,23,36,83.2,,2026-08-20 08:00
+SKU-00227,Home collection -- promotion 227,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,308,2,0,169,8,48,87.9,,2026-08-20 08:00
+SKU-00228,Cleaning items -- household clothing 228,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,1359,44,0,520,15,60,92.6,,2026-08-20 08:00
+SKU-00229,Food beverages - portables 229,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,1359,135,0,1053,22,72,97.3,270,2026-08-20 08:00
+SKU-00230,Outdoor supplies -- standard section 230,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,373,11,0,120,7,84,102,,2026-08-20 08:00
+SKU-00231,Mother and child supplies -- light-weight -- 231,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,1287,4,219,437,14,96,106.7,,2026-08-20 08:00
+SKU-00232,Office supplies -- upgrades 232,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,1284,85,0,936,21,12,111.4,,2026-08-20 08:00
+SKU-00233,Small household electricity -- home-based equipment 233,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,107,2,0,77,6,24,116.1,,2026-08-20 08:00
+SKU-00234,Digital accessories -- portable 234,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,730,31,0,360,13,36,120.8,,2026-08-20 08:00
+SKU-00235,Home income -- standard 235,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,627,18,0,825,20,48,125.5,,2026-08-20 08:00
+SKU-00236,Cleaning supplies -- light-weight 236,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,35,0,0,40,5,60,130.2,,2026-08-20 08:00
+SKU-00237,Food beverages - upgrades 237,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,874,18,0,289,12,72,134.9,270,2026-08-20 08:00
+SKU-00238,Outdoor items -- household clothing 238,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,654,43,360,720,19,84,139.6,,2026-08-20 08:00
+SKU-00239,Mother and Child Supplies - Portable 239,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,1018,41,0,387,4,96,144.3,,2026-08-20 08:00
+SKU-00240,Office supplies -- standard section-240,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,614,43,0,224,11,12,149,,2026-08-20 08:00
+SKU-00241,Small household electricity -- light,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,891,31,0,621,18,24,153.7,,2026-08-20 08:00
+SKU-00242,Digital accessories -- upgrades 242,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,438,22,0,320,3,36,158.4,,2026-08-20 08:00
+SKU-00243,Home-based income - household clothing - 243,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,205,21,0,165,10,48,163.1,,2026-08-20 08:00
+SKU-00244,Cleaning materials -- portables 244,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,2376,151,0,528,17,60,167.8,,2026-08-20 08:00
+SKU-00245,Food beverages -- standard 245,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,1550,33,537,1073,24,72,8,270,2026-08-20 08:00
+SKU-00246,Outdoor supplies -- light-weight -- 246,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,206,14,0,112,9,84,12.7,,2026-08-20 08:00
+SKU-00247,Maternal and child supplies -- upgrades 247,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,996,59,0,441,16,96,17.4,,2026-08-20 08:00
+SKU-00248,Office supplies -- household fit-out - 248,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,830,56,0,952,23,12,22.1,,2026-08-20 08:00
+SKU-00249,Small home electricity -- portable 249,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,97,4,0,65,8,24,26.8,,2026-08-20 08:00
+SKU-00250,Digital accessories -- standard -- 250,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,261,20,0,360,15,36,31.5,,2026-08-20 08:00
+SKU-00251,Home-based income - light-weight - 251,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,762,71,0,837,22,48,36.2,,2026-08-20 08:00
+SKU-00252,Cleaning supplies -- upgrades -- 252,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,87,3,12,24,7,60,40.9,,2026-08-20 08:00
+SKU-00253,Food beverages - household clothing - 253,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,900,69,0,285,14,72,45.6,270,2026-08-20 08:00
+SKU-00254,Outdoor supplies -- portables -- 254,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,2089,51,0,728,21,84,50.3,,2026-08-20 08:00
+SKU-00255,Maternal and child supplies -- standard section - 255,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,403,30,0,451,6,96,55,,2026-08-20 08:00
+SKU-00256,Office supplies -- light,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,512,27,0,216,13,12,59.7,,2026-08-20 08:00
+SKU-00257,Small household electricity - upgrades - 257,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,1496,105,0,625,20,24,64.4,,2026-08-20 08:00
+SKU-00258,Digital accessories -- home fittings -- 258,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,1349,113,0,380,5,36,69.1,,2026-08-20 08:00
+SKU-00259,Home-based cash-in-hands - 259,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,317,25,77,153,12,48,73.8,,2026-08-20 08:00
+SKU-00260,Cleaning supplies -- standard section -- 260,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,335,23,0,528,19,60,78.5,,2026-08-20 08:00
+SKU-00261,Food beverages - light-weight 261,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,622,53,0,315,4,72,83.2,270,2026-08-20 08:00
+SKU-00262,Outdoor supplies -- upgrades -- 262,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,238,16,0,96,11,84,87.9,,2026-08-20 08:00
+SKU-00263,Mother and child supplies - household clothing - 263,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,770,76,0,437,18,96,92.6,,2026-08-20 08:00
+SKU-00264,Office supplies -- portables 264,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,697,31,0,256,3,12,97.3,,2026-08-20 08:00
+SKU-00265,Small household electricity - standard - 265,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,85,3,0,45,10,24,102,,2026-08-20 08:00
+SKU-00266,Digital accessories -- light-weight 266,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,785,92,176,352,17,36,106.7,,2026-08-20 08:00
+SKU-00267,Home income -- promotions 267,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,3020,298,0,841,24,48,111.4,,2026-08-20 08:00
+SKU-00268,Cleaning items -- home-based clothing - 268,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,1559,107,0,588,9,60,116.1,,2026-08-20 08:00
+SKU-00269,Food beverages - portables 269,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,694,11,0,273,16,72,120.8,270,2026-08-20 08:00
+SKU-00270,Outdoor supplies -- standard section - 270,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,2360,181,0,728,23,84,125.5,,2026-08-20 08:00
+SKU-00271,Mother and child supplies - light-weight - 271,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,804,36,0,507,8,96,130.2,,2026-08-20 08:00
+SKU-00272,Office supplies -- upgrades -- 277,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,171,18,0,200,15,12,134.9,,2026-08-20 08:00
+SKU-00273,Small household electricity -- home-based equipment - 2773,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,731,77,311,621,22,24,139.6,,2026-08-20 08:00
+SKU-00274,Digital accessories -- portables 274,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,1183,41,0,432,7,36,144.3,,2026-08-20 08:00
+SKU-00275,Home income - standard - 275,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,342,9,0,133,14,48,149,,2026-08-20 08:00
+SKU-00276,Cleaning supplies -- light-weight,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,495,3,0,520,21,60,153.7,,2026-08-20 08:00
+SKU-00277,Food beverages - upgrades - 277,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,514,17,0,363,6,72,158.4,270,2026-08-20 08:00
+SKU-00278,Outdoor items -- household clothing - 278,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,83,6,0,72,13,84,163.1,,2026-08-20 08:00
+SKU-00279,Mother and Child Supplies - Portables - 277,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,241,3,0,425,20,96,167.8,,2026-08-20 08:00
+SKU-00280,Office supplies -- standard section 280,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,1011,96,150,300,5,12,8,,2026-08-20 08:00
+SKU-00281,Small household electricity - light - 288,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,350,2,0,731,12,24,12.7,,2026-08-20 08:00
+SKU-00282,Digital accessories -- upgrades -- 282,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,252,13,0,336,19,36,17.4,,2026-08-20 08:00
+SKU-00283,Home-based income - household clothing - ii.,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,584,50,0,243,4,48,22.1,,2026-08-20 08:00
+SKU-00284,Cleaning materials -- portables 288,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,1364,136,0,640,11,60,26.8,,2026-08-20 08:00
+SKU-00285,Food beverages - standard - 285,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,505,57,0,253,18,72,31.5,270,2026-08-20 08:00
+SKU-00286,Outdoor supplies -- light -- 286,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,533,26,0,192,3,84,36.2,,2026-08-20 08:00
+SKU-00287,Mother and Child Supplies - Upgrading Section - 287,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,1168,113,278,555,10,96,40.9,,2026-08-20 08:00
+SKU-00288,Office supplies -- household clothing - 288,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,153,16,0,176,17,12,45.6,,2026-08-20 08:00
+SKU-00289,Small household electricity -- portables 289,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,1941,154,0,609,24,24,50.3,,2026-08-20 08:00
+SKU-00290,Digital accessories -- standard section 290,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,216,6,0,476,9,36,55,,2026-08-20 08:00
+SKU-00291,Home-based income - light-weight - 291,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,346,3,0,105,16,48,59.7,,2026-08-20 08:00
+SKU-00292,Cleaning supplies -- upgrades - 292,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,1610,139,0,504,23,60,64.4,,2026-08-20 08:00
+SKU-00293,Food beverages - household clothing - 293,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,516,58,0,403,8,72,69.1,270,2026-08-20 08:00
+SKU-00294,Outdoor supplies -- portables - 294,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,78,6,20,40,15,84,73.8,,2026-08-20 08:00
+SKU-00295,Maternal and child supplies -- standard section 295,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,1296,47,0,405,22,96,78.5,,2026-08-20 08:00
+SKU-00296,Office supplies -- light,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,1056,3,0,336,7,12,83.2,,2026-08-20 08:00
+SKU-00297,Small household electricity - upgrades - 297,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,2416,148,0,779,14,24,87.9,,2026-08-20 08:00
+SKU-00298,Digital accessories -- home fittings - 298,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,393,26,0,312,21,36,92.6,,2026-08-20 08:00
+SKU-00299,Home-based income - portable cash - 299,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,617,12,0,275,6,48,97.3,,2026-08-20 08:00
+SKU-00300,Cleaning items -- standard section - 300,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,778,50,0,684,13,60,102,,2026-08-20 08:00
+SKU-00301,Food beverages - light - 301,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,602,6,113,225,20,72,106.7,270,2026-08-20 08:00
+SKU-00302,Outdoor supplies -- upgrades - 302,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,448,23,0,220,5,84,111.4,,2026-08-20 08:00
+SKU-00303,Maternal and child supplies - household clothing - 303,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,505,24,0,595,12,96,116.1,,2026-08-20 08:00
+SKU-00304,Office supplies -- portables - 3004,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,116,13,0,144,19,12,120.8,,2026-08-20 08:00
+SKU-00305,Small household electricity - standard - 305,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,770,38,0,171,4,24,125.5,,2026-08-20 08:00
+SKU-00306,Digital accessories -- light-weight -- 306,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,765,11,0,512,11,36,130.2,,2026-08-20 08:00
+SKU-00307,Home-based income -- promotions - 307,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,183,16,0,69,18,48,134.9,,2026-08-20 08:00
+SKU-00308,Cleaning items -- household clothing - 308,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,328,3,64,128,3,60,139.6,,2026-08-20 08:00
+SKU-00309,Food beverages - portable 309,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,1380,34,0,435,10,72,144.3,270,2026-08-20 08:00
+SKU-00310,Outdoor supplies -- standard section 310,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,3013,122,0,924,17,84,149,,2026-08-20 08:00
+SKU-00311,Mother and child supplies - light-weight 311,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,625,68,0,377,24,96,153.7,,2026-08-20 08:00
+SKU-00312,Office supplies -- upgrades - 312,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,1326,93,0,364,9,12,158.4,,2026-08-20 08:00
+SKU-00313,Small household electricity - home-based equipment - 313,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,1433,33,0,819,16,24,163.1,,2026-08-20 08:00
+SKU-00314,Digital accessories -- portable funds 314,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,381,36,0,280,23,36,167.8,,2026-08-20 08:00
+SKU-00315,Home collection -- standard 315,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,451,34,150,299,8,48,8,,2026-08-20 08:00
+SKU-00316,Cleaning supplies -- light-weight 316,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,913,21,0,720,15,60,12.7,,2026-08-20 08:00
+SKU-00317,Food beverages - upgrades 317,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,563,6,0,189,22,72,17.4,270,2026-08-20 08:00
+SKU-00318,Outdoor items -- household clothing 318,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,629,17,0,240,7,84,22.1,,2026-08-20 08:00
+SKU-00319,Mother and child supplies -- portable cash 319,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,1643,130,0,627,14,96,26.8,,2026-08-20 08:00
+SKU-00320,Office supplies -- standard section 320,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,236,18,0,104,21,12,31.5,,2026-08-20 08:00
+SKU-00321,Small household electricity -- light,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,166,13,0,187,6,24,36.2,,2026-08-20 08:00
+SKU-00322,Digital accessories -- upgrades 322,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,572,25,270,540,13,36,40.9,,2026-08-20 08:00
+SKU-00323,Home-based income - household clothing 323,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,2389,196,0,1075,20,48,45.6,,2026-08-20 08:00
+SKU-00324,Cleaning materials -- portables 324,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,92,7,0,140,5,60,50.3,,2026-08-20 08:00
+SKU-00325,Food beverages -- standard section 325,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,1052,73,0,459,12,72,55,270,2026-08-20 08:00
+SKU-00326,Outdoor supplies -- light-weight 326,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,3367,383,0,960,19,84,59.7,,2026-08-20 08:00
+SKU-00327,Maternal and child supplies -- upgrades 327,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,74,3,0,99,4,96,64.4,,2026-08-20 08:00
+SKU-00328,Office supplies -- household clothing 328,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,1255,145,0,384,11,12,69.1,,2026-08-20 08:00
+SKU-00329,Small home electricity -- portables 329,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,629,46,426,851,18,24,73.8,,2026-08-20 08:00
+SKU-00330,Digital accessories -- standard section 330,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,51,4,0,64,3,36,78.5,,2026-08-20 08:00
+SKU-00331,Home-based income - light-weight - 331,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,566,45,0,315,10,48,83.2,,2026-08-20 08:00
+SKU-00332,Cleaning supplies -- upgrades 3382,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,692,24,0,748,17,60,87.9,,2026-08-20 08:00
+SKU-00333,Food beverages - household clothing 333,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,190,10,0,145,24,72,92.6,270,2026-08-20 08:00
+SKU-00334,Outdoor supplies -- portable cash 334,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,738,25,0,252,9,84,97.3,,2026-08-20 08:00
+SKU-00335,Maternal and child supplies -- standard section 335,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,1703,17,0,651,16,96,102,,2026-08-20 08:00
+SKU-00336,Office supplies -- light,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,26,1,28,56,23,12,106.7,,2026-08-20 08:00
+SKU-00337,Small household electricity -- upgrades 337,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,580,60,0,195,8,24,111.4,,2026-08-20 08:00
+SKU-00338,Digital accessories -- home-based equipment 338,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,421,25,0,560,15,36,116.1,,2026-08-20 08:00
+SKU-00339,Home-based cashier - portable cashier - 339,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,4013,201,0,1107,22,48,120.8,,2026-08-20 08:00
+SKU-00340,Cleaning supplies -- standard section 340,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,204,12,0,144,7,60,125.5,,2026-08-20 08:00
+SKU-00341,Food beverages - light,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,590,66,0,475,14,72,130.2,270,2026-08-20 08:00
+SKU-00342,Outdoor supplies -- upgrades 342,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,1986,166,0,988,21,84,134.9,,2026-08-20 08:00
+SKU-00343,Mother and child supplies -- home-based,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,62,6,50,99,6,96,139.6,,2026-08-20 08:00
+SKU-00344,Office supplies -- portable 344,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,957,100,0,396,13,12,144.3,,2026-08-20 08:00
+SKU-00345,Small household electricity - standard 345,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,1749,95,0,875,20,24,149,,2026-08-20 08:00
+SKU-00346,Digital accessories -- light 346,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,145,11,0,60,5,36,153.7,,2026-08-20 08:00
+SKU-00347,Home-based income -- promotions 347,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,761,82,0,323,12,48,158.4,,2026-08-20 08:00
+SKU-00348,Cleaning materials -- household clothing - 348,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,1979,214,0,768,19,60,163.1,,2026-08-20 08:00
+SKU-00349,Food beverages - portable cash - 349,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,73,6,0,27,4,72,167.8,270,2026-08-20 08:00
+SKU-00350,Outdoor supplies -- standard section 350,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,279,23,128,256,11,84,8,,2026-08-20 08:00
+SKU-00351,Mother and child supplies -- light-weight,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,1015,70,0,667,18,96,12.7,,2026-08-20 08:00
+SKU-00352,Office supplies -- upgrades -- 352,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,1117,52,0,336,3,12,17.4,,2026-08-20 08:00
+SKU-00353,Small electric -- home-based,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,290,17,0,195,10,24,22.1,,2026-08-20 08:00
+SKU-00354,Digital accessories -- portables - 354,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,1522,106,0,572,17,36,26.8,,2026-08-20 08:00
+SKU-00355,Home income -- standard - 355,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,3100,253,0,1131,24,48,31.5,,2026-08-20 08:00
+SKU-00356,Cleaning supplies -- light-weight -- 356,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,403,6,0,140,9,60,36.2,,2026-08-20 08:00
+SKU-00357,Food beverages - upgrades - 357,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,1481,107,242,483,16,72,40.9,270,2026-08-20 08:00
+SKU-00358,Outdoor items -- household clothing-358,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,2172,31,0,1008,23,84,45.6,,2026-08-20 08:00
+SKU-00359,Mother and child supplies -- portable cash--359,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,95,11,0,91,8,96,50.3,,2026-08-20 08:00
+SKU-00360,Office supplies -- standard section 360,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,1068,116,0,400,15,12,55,,2026-08-20 08:00
+SKU-00361,Small household electricity - light,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,2172,216,0,891,22,24,59.7,,2026-08-20 08:00
+SKU-00362,Digital accessories -- upgrades -- 362,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,48,0,0,48,7,36,64.4,,2026-08-20 08:00
+SKU-00363,Home-based income - household clothing - 363,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,336,13,0,323,14,48,69.1,,2026-08-20 08:00
+SKU-00364,Cleaning supplies -- portables 364,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,716,44,390,780,21,60,73.8,,2026-08-20 08:00
+SKU-00365,Food beverages - standard - 365,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,485,55,0,473,6,72,78.5,270,2026-08-20 08:00
+SKU-00366,Outdoor supplies -- light-weight -- 366,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,1134,37,0,252,13,84,83.2,,2026-08-20 08:00
+SKU-00367,Maternal and child supplies - upgrades - 367,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,655,34,0,675,20,96,87.9,,2026-08-20 08:00
+SKU-00368,Office supplies -- household clothing - 368,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,901,79,0,400,5,12,92.6,,2026-08-20 08:00
+SKU-00369,Small home electricity -- portable cash-- 369,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,646,59,0,187,12,24,97.3,,2026-08-20 08:00
+SKU-00370,Digital accessories -- standard section 377,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,1395,80,0,576,19,36,102,,2026-08-20 08:00
+SKU-00371,Home-based income - light cash - 377,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,751,13,167,333,4,48,106.7,,2026-08-20 08:00
+SKU-00372,Cleaning supplies -- upgrades -- 377,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,218,9,0,128,11,60,111.4,,2026-08-20 08:00
+SKU-00373,Food beverages - household clothing - 377,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,748,5,0,483,18,72,116.1,270,2026-08-20 08:00
+SKU-00374,Outdoor supplies -- portable funds 377,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,396,23,0,272,3,84,120.8,,2026-08-20 08:00
+SKU-00375,Maternal and child supplies -- standard section 375,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,234,6,0,75,10,96,125.5,,2026-08-20 08:00
+SKU-00376,Office supplies -- light-weight -- 377,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,288,6,0,396,17,12,130.2,,2026-08-20 08:00
+SKU-00377,Small household electricity - upgrade 377,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,2818,211,0,899,24,24,134.9,,2026-08-20 08:00
+SKU-00378,Digital accessories -- home-based equipment-378,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,66,0,14,28,9,36,139.6,,2026-08-20 08:00
+SKU-00379,Home-based cash - hand-held - 377,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,562,31,0,315,16,48,144.3,,2026-08-20 08:00
+SKU-00380,Cleaning materials -- standard section 380,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,483,0,0,784,23,60,149,,2026-08-20 08:00
+SKU-00381,Food beverages - light-weight 381,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,1725,50,0,533,8,72,153.7,270,2026-08-20 08:00
+SKU-00382,Outdoor supplies -- upgrades 382,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,658,43,0,240,15,84,158.4,,2026-08-20 08:00
+SKU-00383,Mother and child supplies -- home-based,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,1160,42,0,675,22,96,163.1,,2026-08-20 08:00
+SKU-00384,Office supplies -- portables 384,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,1665,96,0,456,7,12,167.8,,2026-08-20 08:00
+SKU-00385,Small household electricity - standard 385,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,139,6,86,171,14,24,8,,2026-08-20 08:00
+SKU-00386,Digital accessories -- light,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,648,76,0,572,21,36,12.7,,2026-08-20 08:00
+SKU-00387,Home collection -- promotions 387,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,997,80,0,385,6,48,17.4,,2026-08-20 08:00
+SKU-00388,Cleaning items -- home-based clothing 388,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,304,19,0,108,13,60,22.1,,2026-08-20 08:00
+SKU-00389,Food beverages - portable 389,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,1083,24,0,475,20,72,26.8,270,2026-08-20 08:00
+SKU-00390,Outdoor supplies -- standard section 390,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,359,37,0,320,5,84,31.5,,2026-08-20 08:00
+SKU-00391,Mother and child supplies -- light-weight,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,118,4,0,51,12,96,36.2,,2026-08-20 08:00
+SKU-00392,Office supplies -- upgrades 392,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,800,93,192,384,19,12,40.9,,2026-08-20 08:00
+SKU-00393,Small household electricity -- home-based equipment-393,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,708,60,0,261,4,24,45.6,,2026-08-20 08:00
+SKU-00394,Digital accessories -- portables 394,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,1967,22,0,672,11,36,50.3,,2026-08-20 08:00
+SKU-00395,Home income -- standard - 395,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,332,8,0,299,18,48,55,,2026-08-20 08:00
+SKU-00396,Cleaning supplies -- light-weight -- 396,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,351,30,0,208,3,60,59.7,,2026-08-20 08:00
+SKU-00397,Food beverages - upgrades - 397,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,1364,148,0,585,10,72,64.4,270,2026-08-20 08:00
+SKU-00398,Outdoor items -- home-based clothing-398,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,788,56,0,220,17,84,69.1,,2026-08-20 08:00
+SKU-00399,Mother and Child Supplies - Portables - 399,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,1606,37,334,667,24,96,73.8,,2026-08-20 08:00
+SKU-00400,Office supplies -- standard section -- 400,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,929,78,0,504,9,12,78.5,,2026-08-20 08:00
+SKU-00401,Small household electricity -- light,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,201,16,0,147,16,24,83.2,,2026-08-20 08:00
+SKU-00402,Digital accessories -- upgrades - 402,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,1849,62,0,560,23,36,87.9,,2026-08-20 08:00
+SKU-00403,Home-based income - household clothing - 403,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,1387,37,0,429,8,48,92.6,,2026-08-20 08:00
+SKU-00404,Cleaning materials -- portable 404,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,223,21,0,80,15,60,97.3,,2026-08-20 08:00
+SKU-00405,Food beverages -- standard section 405,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,1486,168,0,459,22,72,102,270,2026-08-20 08:00
+SKU-00406,Outdoor supplies -- light-weight -- 406,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,835,6,180,360,7,84,106.7,,2026-08-20 08:00
+SKU-00407,Maternal and Child Supplies - Upgrading Section - 407,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,498,12,0,817,14,96,111.4,,2026-08-20 08:00
+SKU-00408,Office supplies -- household clothing - 408,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,559,66,0,364,21,12,116.1,,2026-08-20 08:00
+SKU-00409,Small home electricity -- portable 409,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,527,39,0,297,6,24,120.8,,2026-08-20 08:00
+SKU-00410,Digital accessories -- standard section 410,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,617,63,0,720,13,36,125.5,,2026-08-20 08:00
+SKU-00411,Home-based income - light,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,320,1,0,275,20,48,130.2,,2026-08-20 08:00
+SKU-00412,Cleaning supplies -- upgrades 412,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,364,5,0,240,5,60,134.9,,2026-08-20 08:00
+SKU-00413,Food beverages - household clothing - 413,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,2264,165,315,629,12,72,139.6,270,2026-08-20 08:00
+SKU-00414,Outdoor supplies -- portable 414,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,450,30,0,192,19,84,144.3,,2026-08-20 08:00
+SKU-00415,Maternal and child supplies -- standard section 415,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,362,29,0,189,4,96,149,,2026-08-20 08:00
+SKU-00416,Office supplies -- light,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,1608,29,0,544,11,12,153.7,,2026-08-20 08:00
+SKU-00417,Small household electricity -- upgrades 417,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,292,29,0,115,18,24,158.4,,2026-08-20 08:00
+SKU-00418,Digital accessories -- household assembly 418,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,86,1,0,144,3,36,163.1,,2026-08-20 08:00
+SKU-00419,Home receipt -- portable cash 419,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,1440,170,0,465,10,48,167.8,,2026-08-20 08:00
+SKU-00420,Cleaning supplies -- standard section 420,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,127,14,22,44,17,60,8,,2026-08-20 08:00
+SKU-00421,Food beverages - light,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,877,22,0,435,24,72,12.7,270,2026-08-20 08:00
+SKU-00422,Outdoor supplies -- upgrades 422,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,878,45,0,392,9,84,17.4,,2026-08-20 08:00
+SKU-00423,Mother and child supplies -- household clothing 423,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,615,66,0,861,16,96,22.1,,2026-08-20 08:00
+SKU-00424,Office supplies -- portable 424,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,507,30,0,336,23,12,26.8,,2026-08-20 08:00
+SKU-00425,Small household electricity -- standard section 425,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,734,58,0,325,8,24,31.5,,2026-08-20 08:00
+SKU-00426,Digital accessories -- light,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,842,41,0,760,15,36,36.2,,2026-08-20 08:00
+SKU-00427,Home collection -- promotions 427,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,1094,45,122,243,22,48,40.9,,2026-08-20 08:00
+SKU-00428,Cleaning items -- household clothing 428,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,599,46,0,264,7,60,45.6,,2026-08-20 08:00
+SKU-00429,Food beverages - portable cash 429,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,2319,22,0,665,14,72,50.3,270,2026-08-20 08:00
+SKU-00430,Outdoor supplies -- standard section 430,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,97,11,0,156,21,84,55,,2026-08-20 08:00
+SKU-00431,Mother and child supplies -- light-weight 431,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,386,10,0,209,6,96,59.7,,2026-08-20 08:00
+SKU-00432,Office supplies -- upgrades 432,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,1260,51,0,576,13,12,64.4,,2026-08-20 08:00
+SKU-00433,Small electric -- home-based,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,205,9,0,75,20,24,69.1,,2026-08-20 08:00
+SKU-00434,Digital accessories -- portable 434,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,161,0,80,160,5,36,73.8,,2026-08-20 08:00
+SKU-00435,Home collection -- standard 435,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,285,15,0,493,12,48,78.5,,2026-08-20 08:00
+SKU-00436,Cleaning supplies -- light 436,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,1502,87,0,1008,19,60,83.2,,2026-08-20 08:00
+SKU-00437,Food beverages - upgrades 437,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,400,24,0,117,4,72,87.9,270,2026-08-20 08:00
+SKU-00438,Outdoor items -- household clothing 438,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,1032,59,0,416,11,84,92.6,,2026-08-20 08:00
+SKU-00439,Mother and Child Supplies - Portable 439,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,776,87,0,897,18,96,97.3,,2026-08-20 08:00
+SKU-00440,Office supplies -- standard section 440,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,288,34,0,80,3,12,102,,2026-08-20 08:00
+SKU-00441,Small household electricity -- light,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,883,36,173,345,10,24,106.7,,2026-08-20 08:00
+SKU-00442,Digital accessories -- upgrades 442,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,1645,52,0,792,17,36,111.4,,2026-08-20 08:00
+SKU-00443,Home-based income - household clothing 443,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,595,42,0,203,24,48,116.1,,2026-08-20 08:00
+SKU-00444,Cleaning supplies -- portable cash 444,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,656,61,0,280,9,60,120.8,,2026-08-20 08:00
+SKU-00445,Food beverages - standard section 445,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,2491,243,0,693,16,72,125.5,270,2026-08-20 08:00
+SKU-00446,Outdoor supplies -- light 446,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,361,12,0,112,23,84,130.2,,2026-08-20 08:00
+SKU-00447,Maternal and child supplies -- upgrades 447,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,131,5,0,221,8,96,134.9,,2026-08-20 08:00
+SKU-00448,Office supplies -- household clothing 448,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,684,62,300,600,15,12,139.6,,2026-08-20 08:00
+SKU-00449,Small electric -- portable 449,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,4114,411,0,1161,22,24,144.3,,2026-08-20 08:00
+SKU-00450,Digital accessories -- standard section 450,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,493,27,0,168,7,36,149,,2026-08-20 08:00
+SKU-00451,Home-based income - light,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,247,3,0,513,14,48,153.7,,2026-08-20 08:00
+SKU-00452,Cleaning supplies -- upgrades,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,3558,365,0,1040,21,60,158.4,,2026-08-20 08:00
+SKU-00453,Food beverages - household clothing - 453,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,306,30,0,121,6,72,163.1,270,2026-08-20 08:00
+SKU-00454,Outdoor supplies -- portable 454,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,1154,137,0,432,13,84,167.8,,2026-08-20 08:00
+SKU-00455,Maternal and child supplies -- standard sections 455,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,1323,107,463,925,20,96,8,,2026-08-20 08:00
+SKU-00456,Office supplies -- light,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,206,9,0,80,5,12,12.7,,2026-08-20 08:00
+SKU-00457,Small household electricity - upgrades 457,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,685,24,0,357,12,24,17.4,,2026-08-20 08:00
+SKU-00458,Digital accessories -- home-based equipment - 458,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,2721,111,0,816,19,36,22.1,,2026-08-20 08:00
+SKU-00459,Home collection - portable cash - 459,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,124,1,0,45,4,48,26.8,,2026-08-20 08:00
+SKU-00460,Cleaning supplies -- standard section 460,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,261,29,0,288,11,60,31.5,,2026-08-20 08:00
+SKU-00461,Food beverages - light,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,2460,248,0,713,18,72,36.2,270,2026-08-20 08:00
+SKU-00462,Outdoor supplies -- upgrades 462,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,27,1,8,16,3,84,40.9,,2026-08-20 08:00
+SKU-00463,Mother and child supplies -- home clothing 463,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,270,12,0,225,10,96,45.6,,2026-08-20 08:00
+SKU-00464,Office supplies -- portable 464,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,1907,135,0,616,17,12,50.3,,2026-08-20 08:00
+SKU-00465,Small household electricity - standard 465,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,4214,478,0,1189,24,24,55,,2026-08-20 08:00
+SKU-00466,Digital accessories -- light,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,608,72,0,168,9,36,59.7,,2026-08-20 08:00
+SKU-00467,Home collection -- promotions 467,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,1489,170,0,525,16,48,64.4,,2026-08-20 08:00
+SKU-00468,Cleaning items -- home clothing 468,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,2516,232,0,1064,23,60,69.1,,2026-08-20 08:00
+SKU-00469,Food beverages - portable 469,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,214,2,59,117,8,72,73.8,270,2026-08-20 08:00
+SKU-00470,Outdoor supplies -- standard section 470,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,308,9,0,440,15,84,78.5,,2026-08-20 08:00
+SKU-00471,Mother and child supplies -- light,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,823,28,0,945,22,96,83.2,,2026-08-20 08:00
+SKU-00472,Office supplies -- upgrades 472,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,111,12,0,72,7,12,87.9,,2026-08-20 08:00
+SKU-00473,Small electric -- home-based,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,405,36,0,361,14,24,92.6,,2026-08-20 08:00
+SKU-00474,Digital accessories -- portables 474,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,897,81,0,832,21,36,97.3,,2026-08-20 08:00
+SKU-00475,Home collection -- standard 475,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,44,4,0,33,6,48,102,,2026-08-20 08:00
+SKU-00476,Cleaning supplies -- light,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,994,79,144,288,13,60,106.7,,2026-08-20 08:00
+SKU-00477,Food beverages - upgrades 477,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,764,35,0,725,20,72,111.4,270,2026-08-20 08:00
+SKU-00478,Outdoor items -- household clothing 478,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,929,0,0,420,5,84,116.1,,2026-08-20 08:00
+SKU-00479,Mother and Child Supplies - Portable 479,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,142,3,0,221,12,96,120.8,,2026-08-20 08:00
+SKU-00480,Office supplies -- standard section 480,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,820,32,0,624,19,12,125.5,,2026-08-20 08:00
+SKU-00481,Small household electricity - light,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,438,25,0,351,4,24,130.2,,2026-08-20 08:00
+SKU-00482,Digital accessories -- upgrades 482,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,370,20,0,160,11,36,134.9,,2026-08-20 08:00
+SKU-00483,Home-based income - household clothing 483,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,860,73,265,529,18,48,139.6,,2026-08-20 08:00
+SKU-00484,Cleaning materials -- portable 484,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,334,17,0,288,3,60,144.3,,2026-08-20 08:00
+SKU-00485,Food beverages - standard section 485,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,140,9,0,105,10,72,149,270,2026-08-20 08:00
+SKU-00486,Outdoor supplies -- light 486,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,444,31,0,440,17,84,153.7,,2026-08-20 08:00
+SKU-00487,Maternal and child supplies -- upgrades 487,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,681,74,0,957,24,96,158.4,,2026-08-20 08:00
+SKU-00488,Office supplies -- household clothing 488,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,252,14,0,56,9,12,163.1,,2026-08-20 08:00
+SKU-00489,Small home electricity -- portable 489,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,330,0,0,357,16,24,167.8,,2026-08-20 08:00
+SKU-00490,Digital accessories -- standard 490,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,942,101,420,840,23,36,8,,2026-08-20 08:00
+SKU-00491,Home-based income - light,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,404,12,0,559,8,48,12.7,,2026-08-20 08:00
+SKU-00492,Cleaning supplies -- upgrades 492,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,587,64,0,280,15,60,17.4,,2026-08-20 08:00
+SKU-00493,Food beverages - household clothing 493,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,2083,91,0,729,22,72,22.1,270,2026-08-20 08:00
+SKU-00494,Outdoor supplies -- portable 494,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,1095,109,0,480,7,84,26.8,,2026-08-20 08:00
+SKU-00495,Maternal and child supplies -- standard sections 495,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,268,7,0,209,14,96,31.5,,2026-08-20 08:00
+SKU-00496,Office supplies -- light,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,1518,41,0,624,21,12,36.2,,2026-08-20 08:00
+SKU-00497,Small household electricity - upgrades 497,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-006,1446,16,204,407,6,24,40.9,,2026-08-20 08:00
+SKU-00498,Digital accessories -- home-based equipment 498,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-007,131,14,0,144,13,36,45.6,,2026-08-20 08:00
+SKU-00499,Home receipt -- portable 499,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-008,1059,43,0,525,20,48,50.3,,2026-08-20 08:00
+SKU-00500,Cleaning materials -- standard -- 500,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-009,1107,118,0,340,5,60,55,,2026-08-20 08:00
+SKU-00501,Food beverages - lightweight - 501,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-010,224,18,0,85,12,72,59.7,270,2026-08-20 08:00
+SKU-00502,Outdoor supplies -- upgrades,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-011,1308,84,0,432,19,84,64.4,,2026-08-20 08:00
+SKU-00503,Mother and child supplies - home assembly - 503,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-012,713,2,0,279,4,96,69.1,,2026-08-20 08:00
+SKU-00504,Office supplies -- portables - 504,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-001,32,1,16,32,11,12,73.8,,2026-08-20 08:00
+SKU-00505,Small household electricity - standard - 505,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-002,1011,70,0,345,18,24,78.5,,2026-08-20 08:00
+SKU-00506,Digital accessories -- light-weight 506,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-003,419,12,0,224,3,36,83.2,,2026-08-20 08:00
+SKU-00507,Home collection - promotions - 507,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-004,1546,143,0,615,10,48,87.9,,2026-08-20 08:00
+SKU-00508,Cleaning items -- household fittings - 508,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-005,433,10,0,264,17,60,92.6,,2026-08-20 08:00
+SKU-00509,Food beverages - portable cash - 509,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-006,913,31,0,725,24,72,97.3,270,2026-08-20 08:00
+SKU-00510,Outdoor supplies -- standard section 510,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-007,1255,74,0,532,9,84,102,,2026-08-20 08:00
+SKU-00511,Mother and child supplies - light-weight 511,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-008,539,32,95,189,16,96,106.7,,2026-08-20 08:00
+SKU-00512,Office supplies -- upgrades 512,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-009,2176,194,0,616,23,12,111.4,,2026-08-20 08:00
+SKU-00513,Small electric -- home-based,Small home electricity.,Small household electricity procurement team,"Namkura, Guangzhou",SUP-010,573,42,0,455,8,24,116.1,,2026-08-20 08:00
+SKU-00514,Digital accessories -- portable cash 514,Digital accessories,Digital Parts Procurement Team,Shenzhen Saikura.,SUP-011,207,11,0,120,15,36,120.8,,2026-08-20 08:00
+SKU-00515,Home collection -- standard 515,Home receipt,Home-based Procurement Unit,"Fuoshan, cargo warehouse.",SUP-012,1788,119,0,513,22,48,125.5,,2026-08-20 08:00
+SKU-00516,Cleaning supplies -- light-weight 516,Cleaning materials,Cleaning up Team,The central warehouse of the Pearl.,SUP-001,438,9,0,384,7,60,130.2,,2026-08-20 08:00
+SKU-00517,Food beverages - upgrades 517,Food and drink,Food and beverage procurement team,"Namkura, Guangzhou",SUP-002,39,2,0,57,14,72,134.9,270,2026-08-20 08:00
+SKU-00518,Outdoor items -- household assembly 518,Outdoor supplies,Outdoor procurement team,Shenzhen Saikura.,SUP-003,1488,137,208,416,21,84,139.6,,2026-08-20 08:00
+SKU-00519,Mother and child supplies - portable cash - 519,Mother and child supplies,Maternal and Child Supplies Procurement Team,"Fuoshan, cargo warehouse.",SUP-004,1089,0,0,319,6,96,144.3,,2026-08-20 08:00
+SKU-00520,Office supplies -- standard section 520,Office Supplies,Office Supplies Procurement Team,The central warehouse of the Pearl.,SUP-005,1545,53,0,756,13,12,149,,2026-08-20 08:00

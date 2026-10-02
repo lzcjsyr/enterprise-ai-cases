@@ -1,0 +1,4 @@
+Case Ref: CASE-004
+Applicable category: use of consultancy/functional failure
+Distinction: first pairing is a consultancy; the failure of functional functions is the frequent breakdown of the pair as described.
+Processing: Recording of mobile phone system versions, application versions, equipment solids and recurrence steps.

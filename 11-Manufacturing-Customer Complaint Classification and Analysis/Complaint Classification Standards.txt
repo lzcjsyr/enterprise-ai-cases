@@ -1,0 +1,16 @@
+Version: VOC-CLASS-V2. 0
+
+Category and SLA
+1. Product quality: material, durability, unusual odor, etc., first response 24 hours a day
+2. Logistics damage: box squeeze, transport collision, water intake, first response for 12 hours...
+3. Functional failure: failure to turn on, failure to connect, failure to function, first response for 12 hours.
+4. Appearance defects: scratches, colours, gapes in assembly, first response 24 hours.
+5. Missing accessories: list items in packaging are missing, first response for eight hours
+6. Use of consultancy: set-up, compatible, operating method, first response 24 hours...
+7. Other: unable to be classified in the above category, 24 hours for first response and manual review
+
+Promotion rules
+- Safety incidents such as smoke, fire, electrical shocks, injuries to personnel: P0, stop immediately and turn over the quality manager.
+- 3 symptoms within 7 days of the same model: mass problem signals, P1 manual intervention.
+- The complaint contains a full telephone number, ID number, a detailed address, etc., personal information: dissensitization, processing, not recapitulation in the output.
+- Repeated submission of the same order should be consolidated, but the original record may not be deleted.

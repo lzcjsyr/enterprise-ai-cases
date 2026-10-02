@@ -1,0 +1,14 @@
+Question 05: Monthly Business Data Bulletin
+
+Background
+Revenue, costs, costs and traffic are designed at the level of a chain store, with three types of anomalies being reduced by sales, triggered by high costs and high costs, and independently reviewed through formulae.
+
+List of documents
+- `Monthly operating data. csv ': 4 regions, 24 stores this month, last month and last year
+- `Briefing template.txt ': indicator formulae, abnormal thresholds, management briefing structure and evidentiary requirements
+
+Description of use
+1. All persons, enterprises and numbers have been re-intensived and not correspond to the actual person or enterprise.
+2. Data retain field relationships in real business, time sequence, monetary constraints and abnormal patterns
+3. Harmonization of documentation UTF-8Encoding; CSV first line is field name, and the identification category field should be processed as text.
+4. No one may use the verification information in the "The Probator Retains" catalogue.

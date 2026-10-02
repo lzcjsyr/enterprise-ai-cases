@@ -1,0 +1,14 @@
+Question 06: Smart extract of contractual payment terms
+
+Background
+Contracts are structured in the common structure of enterprise procurement contracts, with clear terms, cross-term calculations, field missing and unfavourable terms. PDF is exported from text files and can extract text directly, without relying on scanning OCR.
+
+List of documents
+- `contracts/`: 3 text-type PDF procurement/service contracts with different terms and payment nodes
+- `Dicking field description.txt ': field definition, confidence calibre, evidentiary requirements and rules for the verification of amounts
+
+Description of use
+1. All persons, enterprises and numbers have been re-intensived and not correspond to the actual person or enterprise.
+2. Data retain field relationships in real business, time sequence, monetary constraints and abnormal patterns
+3. Harmonization of documentation UTF-8Encoding; CSV first line is field name, and the identification category field should be processed as text.
+4. No one may use the verification information in the "The Probator Retains" catalogue.

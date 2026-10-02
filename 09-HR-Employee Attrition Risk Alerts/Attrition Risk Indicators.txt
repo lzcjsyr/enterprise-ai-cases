@@ -1,0 +1,18 @@
+Rule version: RISK-V2. 0
+Observation deadline: 2026-06-30
+
+I. Definition of indicators
+1. Continuous decline in performance: at least 0.3 points per performance for three consecutive periods, accounting for 2 points.
+2. Anomalous increase in leave: average number of days taken in the last two months is at least 1.8 times the average of the previous four months, with an absolute increase of not less than two days, or 2 points.
+3. Respectability not above 55 points, 2 points.
+4. Late at least six times in the last six months, 1 point.
+5. The latest salary increase is not less than 24 months, at a point of one.
+6. No less than two changes in immediate management, 1 point, for the last 12 months.
+
+Two, the hierarchy.
+- Consisting decline in performance and an abnormal increase in leave: high risk.
+- Other cases: total score of 5 points and above is high risk; 2-4 is medium risk; 0-1 is low risk...
+- Performance, monthly leave or absence of any key field with a dedicated service must be marked with manual review and not directly rated as a high risk.
+
+Three, use the border.
+These rules are used to detect signals requiring communication and review, are not a factual projection of separation and may not be used as the sole basis for dismissal, salary reduction or discriminatory decision-making.

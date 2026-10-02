@@ -1,0 +1,15 @@
+Question 08: Smart warning of stockpiles and recommendations for replenishment
+
+Background
+SKU covers 8 categories of commodities, 4 warehouses and 12 suppliers. Data includes emergency replenishments, recommended replenishments, normal, surplus, zero sales and sales data less than 6 categories of borders, calculated as volume review.
+
+List of documents
+- `Inventory data.csv ': stock of 520 SKUs, secure lines, in transit, procurement lead times and minimum order volumes
+- `Data on sales for nearly 30 days.csv ': approximately 15,000 sales per day, including promotion days, zero sales and missing records
+- `Advance warning rules.txt ': classification, replenishment, cut-off date, missing values and round-up rules
+
+Description of use
+1. All persons, enterprises and numbers have been re-intensived and not correspond to the actual person or enterprise.
+2. Data retain field relationships in real business, time sequence, monetary constraints and abnormal patterns
+3. Harmonization of documentation UTF-8Encoding; CSV first line is field name, and the identification category field should be processed as text.
+4. No one may use the verification information in the "The Probator Retains" catalogue.

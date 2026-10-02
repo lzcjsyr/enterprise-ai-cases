@@ -1,0 +1,5 @@
+Case Ref: CASE-001
+Applicable category: functional failure
+Symptoms: Unable to turn on the device or no response from the signal after charge.
+Processing: Confirm power adapter specifications, 30 minutes charge, 10 seconds long power key; register serial numbers and re-test if no response is forthcoming.
+Disable: No further electrical transmission in case of an alien smell, smoke or visible heat, and the security event process should be transferred immediately.

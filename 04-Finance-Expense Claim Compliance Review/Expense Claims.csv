@@ -1,0 +1,37 @@
+expense_id,employee_id,department,expense_type,claim_date,invoice_no,merchant,claim_amount,invoice_amount,preapproval_no,city,business_purpose
+BX-202607-001,E260101,R&D Center,Training,2026-07-05,INV2607008001,Air transport services,828,828,,Zhuhai,On-site Project Support
+BX-202607-002,E260102,Product Centre,Office Supplies,2026-07-08,INV2607008002,Bayview Commercial Hotel,513,513,,Zhuhai,Material for sectoral meetings
+BX-202607-003,E260103,Sell one.,Client hospitality,2026-07-11,INV2607008003,A tasting meal.,1052,1052,OA-ZD-260703,Zhuhai,Professional competency training
+BX-202607-004,E260104,Supply Chain Department,Travel and meals,2026-07-14,INV2607008004,Office supplies for departure,917,917,,Guangzhou,Client programme communication
+BX-202607-005,E260105,Customer Success Department,Travel accommodation,2026-07-17,INV2607008005,Lingnan Training Centre,767,681,,Zhuhai,On-site Project Support
+BX-202607-006,E260106,Department of Administration,Intra-city transport,2026-07-20,INV2607008006,Gulf Convention Centre,513,513,,Zhuhai,Material for sectoral meetings
+BX-202607-007,E260107,R&D Center,Training,2026-07-23,INV2607008007,Air transport services,285,285,,Zhuhai,Professional competency training
+BX-202607-008,E260108,Product Centre,Personal commuter,2026-07-26,INV2607008008,Bayview Commercial Hotel,950,950,,Guangzhou,Client programme communication
+BX-202607-009,E260109,Sell one.,Client hospitality,2026-07-29,INV2607008009,A tasting meal.,1062,1062,OA-ZD-260709,Zhuhai,On-site Project Support
+BX-202607-010,E260110,Supply Chain Department,Travel and meals,2026-07-04,INV2607008010,Office supplies for departure,655,655,,Zhuhai,Material for sectoral meetings
+BX-202607-011,E260111,Customer Success Department,Travel accommodation,2026-07-11,INV2607008003,A tasting meal.,1052,1052,,Zhuhai,Professional competency training
+BX-202607-012,E260112,Department of Administration,Intra-city transport,2026-07-10,INV2607008012,Gulf Convention Centre,769,769,,Guangzhou,Client programme communication
+BX-202607-013,E260113,R&D Center,Training,2026-07-13,INV2607008013,Air transport services,997,997,,Zhuhai,On-site Project Support
+BX-202607-014,E260114,Product Centre,Office Supplies,2026-07-16,INV2607008014,Bayview Commercial Hotel,994,994,,Zhuhai,Material for sectoral meetings
+BX-202607-015,E260115,Sell one.,Travel and meals,2026-07-19,INV2607008015,A tasting meal.,238,238,,Zhuhai,Professional competency training
+BX-202607-016,E260116,Supply Chain Department,Travel and meals,2026-07-22,INV2607008016,Office supplies for departure,802,802,,Guangzhou,Client programme communication
+BX-202607-017,E260117,Customer Success Department,Travel accommodation,2026-07-25,INV2607008017,Lingnan Training Centre,776,776,,Zhuhai,On-site Project Support
+BX-202607-018,E260118,Department of Administration,Client hospitality,2026-07-28,INV2607008018,Gulf Convention Centre,1380,1380,,Zhuhai,Material for sectoral meetings
+BX-202607-019,E260119,R&D Center,Training,2026-07-03,INV2607008019,Air transport services,949,949,,Zhuhai,Professional competency training
+BX-202607-020,E260120,Product Centre,Office Supplies,2026-07-06,INV2607008020,Bayview Commercial Hotel,378,378,,Guangzhou,Client programme communication
+BX-202607-021,E260121,Sell one.,Client hospitality,2026-07-09,INV2607008021,A tasting meal.,1273,1273,OA-ZD-260721,Zhuhai,On-site Project Support
+BX-202607-022,E260122,Supply Chain Department,Travel and meals,2026-07-12,INV2607008022,Office supplies for departure,182,182,,Zhuhai,Material for sectoral meetings
+BX-202607-023,E260123,Customer Success Department,Travel accommodation,2026-07-15,INV2607008023,Lingnan Training Centre,424,424,,Zhuhai,Professional competency training
+BX-202607-024,E260124,Department of Administration,Intra-city transport,2026-07-18,INV2607008024,Gulf Convention Centre,920,920,,Guangzhou,Client programme communication
+BX-202607-025,E260125,R&D Center,Training,2026-07-21,INV2607008025,Air transport services,149,149,,Zhuhai,On-site Project Support
+BX-202607-026,E260126,Product Centre,Office Supplies,2026-07-24,INV2607008026,Bayview Commercial Hotel,343,343,,Zhuhai,Material for sectoral meetings
+BX-202607-027,E260127,Sell one.,Client hospitality,2026-07-27,INV2607008027,A tasting meal.,1319,1319,OA-ZD-260727,Zhuhai,Professional competency training
+BX-202607-028,E260128,Supply Chain Department,Travel and meals,2026-07-02,INV2607008028,Office supplies for departure,1012,1012,,Guangzhou,Client programme communication
+BX-202607-029,E260129,Customer Success Department,Travel accommodation,2026-07-05,INV2607008029,Lingnan Training Centre,459,459,,Zhuhai,On-site Project Support
+BX-202607-030,E260130,Department of Administration,Intra-city transport,2026-07-08,INV2607008030,Gulf Convention Centre,889,889,,Zhuhai,Material for sectoral meetings
+BX-202607-031,E260131,R&D Center,Training,2026-07-11,INV2607008031,Air transport services,183,183,,Zhuhai,Professional competency training
+BX-202607-032,E260132,Product Centre,Training,2026-07-14,INV2607008032,Bayview Commercial Hotel,58000,58000,,Guangzhou,Client programme communication
+BX-202607-033,E260133,Sell one.,Client hospitality,2026-07-17,INV2607008033,A tasting meal.,1126,1126,OA-ZD-260733,Zhuhai,On-site Project Support
+BX-202607-034,E260134,Supply Chain Department,Travel and meals,2026-07-20,INV2607008034,Office supplies for departure,433,433,,Zhuhai,Material for sectoral meetings
+BX-202607-035,E260135,Customer Success Department,Travel accommodation,2026-07-23,INV2607008035,Lingnan Training Centre,449,449,,Zhuhai,Professional competency training
+BX-202607-036,E260136,Department of Administration,Intra-city transport,2026-07-26,INV2607008036,Gulf Convention Centre,376,376,,Guangzhou,Client programme communication

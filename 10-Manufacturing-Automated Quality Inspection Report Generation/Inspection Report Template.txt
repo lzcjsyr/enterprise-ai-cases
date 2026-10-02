@@ -1,0 +1,10 @@
+Report title: Final product out-of-work inspection report
+Fields to be filled: report number, product name, batch, production date, test basis and version, sample number, test date, inspector number.
+
+Detected results sheet fields: detection project, sample/detection value, units, standard requirements, individual determinations, sources of evidence...
+The consolidated conclusion can only be: qualified, ineligible, to be confirmed.
+- Incompetence of any food safety or compulsory project: a composite conclusion is not qualified...
+- Lack of key results or criteria: consolidated conclusions to be confirmed
+- Report number format: QC-GB-YYYYYMMDD-end of batch.
+
+Follow-up fields for ineligible items: quarantine requirements, possible liability lines (supposing only), re-advised recommendations, clearance of responsible positions...

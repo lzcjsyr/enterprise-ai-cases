@@ -1,0 +1,11 @@
+Document: Sampling and Rechecking of Completed ProductsSOP
+Number: QC-SOP-11
+Version: V1.4
+Entry into force: 2026-05-15
+Status: Active at present
+
+Article 3.1. No less than 20 randomly collected items per batch for net content and sensory examination, sampling of microbial and microbial projects according to the test plan.
+Section 4.1 Sensory, net content, which is not allowed in the batch if the salmonella is not qualified.
+Article 4.2 Water, acid price or peroxide exceeding limit, first quarantine the batch, and the head of the examination decides whether to review it as required; the first result shall not be deleted.
+Regulation 4.3 Microbiological count is determined on a sample-by-sample basis using the n/c/m/M rule, and not only averages are to be compared.
+Article 5.1. Where detection results are missing or outdated criteria are used, conclusions must be "pending confirmation" and no eligibility may be inferred.

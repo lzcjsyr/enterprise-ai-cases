@@ -1,0 +1,7 @@
+Document: Unqualified goods control procedures
+Number: QP-08
+Version: V3.1
+Entry into force: 2026-03-01
+Status: Active at present
+
+The quantity of the batch that is not eligible shall be marked, the stock shall be isolated and frozen. The quality person organizes production, research and development and supply chain evaluation, can return to work, compromise receipt, demotion or end-of-life decision. Food safety projects shall not compromise receipt. The record of the batch must be corrected in relation to the batch, equipment, raw material number, liability chain and the results of the review.

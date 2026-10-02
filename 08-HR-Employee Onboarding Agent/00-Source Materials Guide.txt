@@ -1,0 +1,14 @@
+Question 02: New staff entry to the Practising Service
+
+Background
+The system document follows the usual hierarchy and symbol structure of the enterprise ' s internal system, with a pre-existing version of the priority, a sub-division of conditions and a clear manual service boundary, which can be used to test the ability to quote and refuse to answer...
+
+List of documents
+- `knowledge base/`: 5 system documents with symbol, version, effective date and article number
+- `List of frequently asked questions.csv ': 20 articles cover direct answers, conflicts, clarification and manual testing questions
+
+Description of use
+1. All persons, enterprises and numbers have been re-intensived and not correspond to the actual person or enterprise.
+2. Data retain field relationships in real business, time sequence, monetary constraints and abnormal patterns
+3. Harmonization of documentation UTF-8Encoding; CSV first line is field name, and the identification category field should be processed as text.
+4. No one may use the verification information in the "The Probator Retains" catalogue.

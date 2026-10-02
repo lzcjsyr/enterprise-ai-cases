@@ -1,0 +1,13 @@
+supplier_id,supplier_name,orders_12m,on_time_delivery_rate_pct,quality_pass_rate_pct,return_rate_pct,major_quality_incidents_12m
+SUP-001,"Zhuhai Tuo Yuan Precision Manufacturing Co., Ltd.",18,96.8,99.1,0.7,0
+SUP-002,"Foshan Heng Rui Ji Dian Co., Ltd.",22,94.2,98.3,1.1,0
+SUP-003,"Dong Guan Zhi Lian Industrial Qi Cai Co., Ltd.",26,89.5,96.4,2.3,0
+SUP-004,"Zhongshan Qi Hang Automation Co., Ltd.",30,97.5,99.4,0.5,0
+SUP-005,"Shenzhen Ju Zhen Electronics Co., Ltd.",34,91,97.2,1.8,0
+SUP-006,"Hui Zhou Lang Xin Technology Co., Ltd.",38,98.1,99.6,0.3,0
+SUP-007,"Jiang Men Ke Sheng Wu Jin Co., Ltd.",42,84.7,94.5,3.9,1
+SUP-008,"Guangzhou Lian Ke Supply Chain Co., Ltd.",46,93.6,98.8,0.9,0
+SUP-009,"Zhao Qing Hua Yan Xin Cai Liao Co., Ltd.",50,95.1,99,0.8,0
+SUP-010,"Zhuhai Rui Da Industrial Services Co., Ltd.",0,,,,0
+SUP-011,"Dong Guan Zhuo Yue Zhi Zao Co., Ltd.",58,96.2,99.3,0.6,0
+SUP-012,"Foshan Jia He Ji Dian Co., Ltd.",62,87,95.2,4.5,2

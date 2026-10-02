@@ -1,0 +1,26 @@
+supplier_id,supplier_name,certificate_type,certificate_no,valid_from,valid_until,verification_status
+SUP-001,"Zhuhai Tuo Yuan Precision Manufacturing Co., Ltd.",ISO9001,CERT-01-1,2024-01-01,2027-10-30,Verified
+SUP-001,"Zhuhai Tuo Yuan Precision Manufacturing Co., Ltd.",IATF16949,CERT-01-2,2024-02-01,2027-11-30,Verified
+SUP-001,"Zhuhai Tuo Yuan Precision Manufacturing Co., Ltd.",ISO14001,CERT-01-3,2024-03-01,2027-10-30,Verified
+SUP-002,"Foshan Heng Rui Ji Dian Co., Ltd.",ISO9001,CERT-02-1,2024-01-01,2027-10-30,Verified
+SUP-002,"Foshan Heng Rui Ji Dian Co., Ltd.",ISO14001,CERT-02-2,2024-02-01,2027-11-30,Verified
+SUP-003,"Dong Guan Zhi Lian Industrial Qi Cai Co., Ltd.",ISO9001,CERT-03-1,2024-01-01,2027-10-30,Verified
+SUP-004,"Zhongshan Qi Hang Automation Co., Ltd.",ISO9001,CERT-04-1,2024-01-01,2027-10-30,Verified
+SUP-004,"Zhongshan Qi Hang Automation Co., Ltd.",IATF16949,CERT-04-2,2024-02-01,2027-11-30,Verified
+SUP-005,"Shenzhen Ju Zhen Electronics Co., Ltd.",ISO9001,CERT-05-1,2024-01-01,2027-10-30,Verified
+SUP-005,"Shenzhen Ju Zhen Electronics Co., Ltd.",ISO14001,CERT-05-2,2024-02-01,2027-11-30,Verified
+SUP-006,"Hui Zhou Lang Xin Technology Co., Ltd.",ISO9001,CERT-06-1,2024-01-01,2027-10-30,Verified
+SUP-006,"Hui Zhou Lang Xin Technology Co., Ltd.",IATF16949,CERT-06-2,2024-02-01,2027-11-30,Verified
+SUP-006,"Hui Zhou Lang Xin Technology Co., Ltd.",ISO14001,CERT-06-3,2024-03-01,2027-10-30,Verified
+SUP-006,"Hui Zhou Lang Xin Technology Co., Ltd.",ISO45001,CERT-06-4,2024-04-01,2027-11-30,Verified
+SUP-007,"Jiang Men Ke Sheng Wu Jin Co., Ltd.",ISO9001,CERT-07-1,2024-01-01,2027-10-30,Verified
+SUP-008,"Guangzhou Lian Ke Supply Chain Co., Ltd.",ISO9001,CERT-08-1,2024-01-01,2027-10-30,Verified
+SUP-008,"Guangzhou Lian Ke Supply Chain Co., Ltd.",ISO14001,CERT-08-2,2024-02-01,2027-11-30,Verified
+SUP-009,"Zhao Qing Hua Yan Xin Cai Liao Co., Ltd.",ISO9001,CERT-09-1,2024-01-01,2027-10-30,Verified
+SUP-009,"Zhao Qing Hua Yan Xin Cai Liao Co., Ltd.",IATF16949,CERT-09-2,2024-02-01,2027-11-30,Verified
+SUP-010,"Zhuhai Rui Da Industrial Services Co., Ltd.",ISO9001,CERT-10-1,2024-01-01,2026-06-30,Expired
+SUP-011,"Dong Guan Zhuo Yue Zhi Zao Co., Ltd.",ISO9001,CERT-11-1,2024-01-01,2027-10-30,Verified
+SUP-011,"Dong Guan Zhuo Yue Zhi Zao Co., Ltd.",IATF16949,CERT-11-2,2024-02-01,2027-11-30,Verified
+SUP-011,"Dong Guan Zhuo Yue Zhi Zao Co., Ltd.",ISO14001,CERT-11-3,2024-03-01,2027-10-30,Verified
+SUP-012,"Foshan Jia He Ji Dian Co., Ltd.",ISO9001,CERT-12-1,2024-01-01,2027-10-30,Verified
+SUP-012,"Foshan Jia He Ji Dian Co., Ltd.",ISO14001,CERT-12-2,2024-02-01,2027-11-30,Verified

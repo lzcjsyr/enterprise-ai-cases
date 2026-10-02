@@ -1,0 +1,12 @@
+Document name: IT account number and permission management requirements
+Document symbol: ZX-IT-004
+Version: V1.8
+Entry into force: 2026-07-15
+Department of Information Technology
+
+Article 2.1 Enterprise mailboxes and instant communication accounts are automatically triggered by HR entry process without the need for staff to repeat their application.
+Article 2.2. Authority over operational systems such as ERP, CRM, code warehouse, etc., is initiated by the immediate manager and approved by the system manager; and the review of the operations manager shall be required in cases involving financial or production control authority.
+Article 2.3. Competence shall be granted on the basis of the minimum necessary basis, and provisional authority shall be granted for a period not exceeding 90 days.
+Article 3.1 First login must modify the initial password and enable multifactor authentication.
+Regulation 3.2 No accounts shall be shared; the IT help desk (inline 6600) shall be contacted immediately if an abnormal login is detected.
+Article 4.1. The original authority is reviewed by the immediate manager within two working days of the post adjustment and the separation account is closed upon termination of the labour relationship.

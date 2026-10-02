@@ -1,0 +1,127 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Annual Party Raffle: From Spreadsheet to Live Event Page</title><style>
+:root{--bg:#f6f4ec;--paper:#1c2a22;--gold:#a9852f;--green:#2c7770;--muted:#62716a;--line:#c9d2cc}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--paper);font-family:"Noto Serif CJK SC","Songti SC",serif;font-size:17px}
+.nav{position:fixed;right:18px;top:50%;transform:translateY(-50%);z-index:3;display:grid;gap:6px}
+.nav a{font:13px ui-monospace,monospace;color:var(--muted);text-decoration:none;border:1px solid var(--line);padding:6px 9px;background:#fffdf7}
+.nav a.active,.nav a:hover{background:var(--green);color:#fff}
+.course-page{min-height:100vh;padding:60px max(9vw,30px);border-bottom:1px solid var(--line);display:grid;align-content:center}
+.inner{max-width:1080px}.num,.eyebrow{font:14px ui-monospace,monospace;letter-spacing:.1em;color:var(--green)}
+h1{font-size:clamp(40px,6.4vw,84px);letter-spacing:-.06em;line-height:1.05;margin:15px 0 30px}.subtitle{font-size:clamp(19px,2.6vw,27px);color:var(--muted);line-height:1.5;margin:0 0 24px;font-weight:400}
+.lead{font-size:21px;line-height:1.8;color:var(--muted);max-width:840px}
+.route{display:grid;grid-template-columns:1fr 36px 1fr;gap:10px;align-items:center;margin:20px 0;max-width:900px}
+.route div{background:#eef6f1;border:1px solid #b9d3cd;padding:22px;line-height:1.75;color:var(--paper)}
+.route b{color:var(--green)}
+.arrow{text-align:center;color:var(--gold);font-size:30px}
+.prompt{white-space:pre-wrap;background:#fffdf7;border:1px solid var(--line);padding:28px;color:var(--paper);font:15px/1.8 ui-monospace,monospace}
+.copy{border:1px solid var(--green);background:#f2faf5;color:#215d58;padding:11px 16px;margin:14px 0;cursor:pointer;font-size:16px}
+.copy:hover{background:#d9eee5}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.grid div{padding:22px;border-top:4px solid var(--gold);background:#fffdf7;line-height:1.8;color:var(--paper);font-size:16.5px}
+.grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:22px}.grid2 div{padding:22px;border-top:4px solid var(--green);background:#fffdf7;line-height:1.8;color:var(--paper);font-size:16.5px}
+.warning{margin-top:28px;border-left:5px solid var(--gold);padding:18px 22px;background:#fbf0d4;line-height:1.85;color:var(--paper);font-size:16.5px}
+.note{background:#eef6f1;border:1px solid #b9d3cd;color:var(--paper);padding:18px 22px;line-height:1.85;margin-top:20px;font-size:16.5px}
+.badge{display:inline-block;border:1px solid var(--green);color:var(--green);border-radius:20px;padding:4px 14px;font:13px ui-monospace,monospace;margin-right:8px}
+.stepno{font:13px ui-monospace,monospace;color:var(--gold);display:block;letter-spacing:.08em;margin-bottom:4px}
+.kv{font:14px ui-monospace,monospace;color:var(--muted)}
+.check{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:26px}
+.check div{padding:20px;border-top:4px solid var(--gold);background:#fffdf7;line-height:1.8;color:var(--paper);font-size:16.5px}
+.check b{color:var(--gold)}
+.files{font:15px ui-monospace,monospace;color:var(--gold)}
+.shot{margin:30px 0 0;background:#fffdf7;border:1px solid var(--line);padding:18px 18px 12px;text-align:center}
+.shot figcaption{font-size:16px;color:var(--green);padding:14px 2px 4px;line-height:1.7;font-weight:500}
+.cap{color:var(--muted);font-size:16px;margin-top:10px;line-height:1.8}
+.mock{max-width:820px;margin:0 auto;text-align:left;border-radius:12px;overflow:hidden;background:#0f1a15;border:1px solid #2b3a31;box-shadow:0 20px 44px rgba(28,42,34,.22)}
+.mock-bar{display:flex;align-items:center;gap:6px;padding:9px 12px;background:#1e2d26;border-bottom:1px solid #2b3a31}
+.mock-bar i{display:block;width:11px;height:11px;border-radius:50%}
+.mock-bar i:nth-child(1){background:#e2695c}.mock-bar i:nth-child(2){background:#e0b445}.mock-bar i:nth-child(3){background:#57b07a}
+.mock-url{flex:1;margin-left:8px;font:12px ui-monospace,monospace;color:#9fb3a8;background:#16241e;border:1px solid #2b3a31;border-radius:6px;padding:4px 10px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mock-screen{display:grid;grid-template-columns:1.55fr 1fr;gap:16px;padding:24px 22px;background:radial-gradient(130% 120% at 50% -10%,#24503f 0%,#111e18 72%)}
+.mock-left,.mock-right{border:1px solid rgba(169,133,47,.38);border-radius:10px;background:rgba(255,253,247,.04);padding:18px}
+.mock-left{text-align:center;display:grid;align-content:center;gap:8px}
+.mock-tag{justify-self:center;font:12px ui-monospace,monospace;letter-spacing:.16em;color:#c9a24a;border:1px solid rgba(201,162,74,.5);border-radius:20px;padding:3px 12px}
+.mock-title{font-family:"Songti SC",serif;font-size:26px;letter-spacing:.28em;color:#e6c877;margin:2px 0 6px}
+.mock-name{font-family:"Songti SC",serif;font-size:clamp(30px,5vw,44px);font-weight:700;letter-spacing:.12em;color:#fffdf7;text-shadow:0 0 26px rgba(230,200,119,.55)}
+.mock-dept{font-size:14px;color:#a8c4b8;letter-spacing:.2em}
+.mock-btns{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:12px}
+.mock-btns span{font-size:13px;padding:7px 14px;border-radius:6px;border:1px solid rgba(255,253,247,.35);color:#e8f0ea}
+.mock-btns span.on{background:linear-gradient(180deg,#e0b445,#a9852f);border-color:#e6c877;color:#1c2a22;font-weight:700}
+.mock-meta{font:12px ui-monospace,monospace;color:#8ba697;margin-top:12px;line-height:1.6}
+.mock-right h4{margin:0 0 12px;font-size:15px;color:#e6c877;letter-spacing:.12em;font-weight:500}
+.mock-row{display:flex;justify-content:space-between;gap:10px;font-size:13.5px;color:#dbe7e0;padding:8px 0;border-bottom:1px dashed rgba(255,253,247,.16)}
+.mock-row b{color:#e6c877;font-weight:500}
+.mock-row span{color:#93ad9f;font-size:12.5px}
+@media(max-width:760px){.mock-screen{grid-template-columns:1fr}}
+@media(max-width:700px){body{font-size:16px}.course-page{padding:55px 22px 70px}.grid,.check{grid-template-columns:1fr}.nav{top:auto;bottom:0;left:0;right:0;transform:none;display:flex;overflow:auto;padding:8px;background:var(--bg)}.nav a{flex:0 0 auto}.route{grid-template-columns:1fr}.arrow{transform:rotate(90deg)}}
+</style></head><body><nav class="nav" aria-label="Page Number Navigation"><a href="#p1">01</a><a href="#p2">02</a><a href="#p3">03</a><a href="#p4">04</a><a href="#p5">05</a></nav><main>
+
+<section class="course-page" id="p1"><div class="inner">
+<div class="num">Page 1 of 5</div>
+<div class="eyebrow">From a participant list to a live event page</div>
+<h1>Annual Party Raffle<br>Web App</h1>
+<p class="lead">Task: Read<strong>Annual Party Raffle List.xlsx</strong>and use AI to create an event page that opens in a browser, runs the raffle, and exports the winners. No setup or server required—just a conversation with AI.</p>
+<figure class="shot">
+<div class="mock" role="img" aria-label="A product-effects indicator for the annual page of the Award, by HTML/CSS">
+<div class="mock-bar"><i></i><i></i><i></i><div class="mock-url">file:///annual-raffle.html</div></div>
+<div class="mock-screen">
+<div class="mock-left">
+<span class="mock-tag">2026 Annual Party · Live Drawing</span>
+<div class="mock-title">Annual Party Raffle</div>
+<div class="mock-name">Wang Yaqi</div>
+<div class="mock-dept">Marketing</div>
+<div class="mock-btns"><span class="on">Start Drawing</span><span>Stop</span><span>Reset</span><span>Export Winners</span></div>
+<div class="mock-meta">128 eligible · 3 winners</div>
+</div>
+<div class="mock-right">
+<h4>Winners</h4>
+<div class="mock-row"><b>Wang Yaqi</b><span>Marketing</span></div>
+<div class="mock-row"><b>Li Mingyuan</b><span>Engineering</span></div>
+<div class="mock-row"><b>Chen Siyu</b><span>Finance</span></div>
+<div class="mock-meta">Export the winner list before closing or refreshing the page.</div>
+</div>
+</div>
+</div>
+<figcaption>Preview of the finished result (drawn with HTML/CSS): names scroll quickly during the drawing; when it stops, the winner’s name and department appear.</figcaption>
+</figure>
+</div></section>
+
+<section class="course-page" id="p2"><div class="inner">
+<div class="num">Page 2 of 5</div>
+<h1>Just two steps:<br>Build it first, then polish it.</h1>
+<p class="lead">Turn the list into a raffle app in two steps: first make the page work, then <strong>polish the design</strong><strong></strong>.</p>
+<div class="route">
+<div><span class="stepno">Step One</span><b>Build the app to spec</b><br>Read Annual Party Raffle List.xlsx and create a working annual party raffle page saved as annual-raffle.html. Finish and verify the features first.</div>
+<span class="arrow">→</span>
+<div><span class="stepno">Step Two</span><b>Polish the appearance</b><br>Use WorkBuddy’s front-end design skills to give the page a large-screen look suitable for a live event.</div>
+</div>
+</div></section>
+
+<section class="course-page" id="p3"><div class="inner">
+<div class="num">Page 3 of 5</div>
+<h1>Round One:<br>Make it work first.</h1>
+<p class="lead">For the first version, focus on<strong>complete features and reliable logic</strong>with a clear, simple interface. Send this prompt to the AI:</p>
+<button class="copy" data-copy="prompt1">Copy Prompt</button><pre class="prompt" id="prompt1">Read Annual Party Raffle List.xlsx in the project root and create an annual party raffle webpage saved as annual-raffle.html that opens directly in a browser. Requirements: 1. Read the participant list from Excel and embed the eligible names directly in the HTML; do not add an upload step. 2. Expect the columns “Name,” “Department,” and “Participating”; exclude anyone marked “No.” 3. Include “Start Drawing,” “Stop,” “Reset,” and “Export Winners” controls. 4. Scroll names during the drawing; when stopped, show the winner’s name and department. 5. Do not select a winner more than once. 6. Keep results on the current page; no server is needed. 7. Export winners to an Excel file and remind users to export before refreshing or closing the page. First make the features complete and reliable, with a clear, simple interface. When done, provide the file path and check that the HTML opens directly.</pre>
+<div class="note">Remember the prompt structure:<strong>What to read → requirements → acceptance checks</strong>This outline works for other cases too.</div>
+</div></section>
+
+<section class="course-page" id="p4"><div class="inner">
+<div class="num">Page 4 of 5</div>
+<h1>Step Two:<br>Polish the appearance with AI.</h1>
+<p class="lead">Once the features work, ask the AI to give the page a polished look for a live event screen. Send this prompt:</p>
+<button class="copy" data-copy="prompt2">Copy Design Prompt</button><pre class="prompt" id="prompt2">Use [front-end design skills of your choice] to improve annual-raffle.html. Keep all raffle logic intact and give it a Baroque-style look for a live annual party. When finished, open the page and check the text, buttons, and raffle flow.</pre>
+</div></section>
+
+<section class="course-page" id="p5"><div class="inner">
+<div class="num">Page 5 of 5</div>
+<h1>Practice applying the workflow:<br>Adapt it for your event.</h1>
+<p class="lead">Continue from the verified webpage and add:<strong>Draw third prize first and first prize last</strong>; change the visual style to “Tech Blue” or “Chinese-inspired.”</p>
+<div class="grid2">
+<div><span class="stepno">Add the logic first</span><b>Prize tiers</b><br>Third prize:<strong>5 people</strong>Second prize:<strong>3 people</strong>First prize:<strong>1 person</strong>Draw in order; do not select the same person more than once.</div>
+<div><span class="stepno">Then change the look</span><b>Visual style</b><br>Replace “Baroque” with “Tech Blue” or “Chinese-inspired”; leave the rest of the logic unchanged.</div>
+</div>
+<div class="note">Done means: the event rules are visible; each prize is drawn without repeats; the exported list matches the prizes; and users are reminded to export before closing or refreshing.</div>
+<p class="files" style="margin-top:24px">To share the finished tool, send only annual-raffle.html. The participant list is embedded, so it runs without the Excel file.</p>
+</div></section>
+
+</main><script>
+document.querySelectorAll('.copy').forEach(function(b){b.addEventListener('click',function(){var id=b.dataset.copy;var t=document.getElementById(id);var txt=t.innerText.replace(/\u3000/g,' ');navigator.clipboard.writeText(txt).then(function(){b.textContent='Copyed';setTimeout(function(){b.textContent='Copying hints';},1600);});});});
+window.addEventListener('scroll',function(){var a=document.querySelectorAll('.nav a');var y=window.scrollY+innerHeight/2;a.forEach(function(x){var s=document.querySelector(x.getAttribute('href'));x.classList.toggle('active',s.offsetTop<=y&&s.offsetTop+s.offsetHeight>y);});});
+</script></body></html>

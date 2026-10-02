@@ -1,0 +1,16 @@
+Examination question 01: Smart CV screening and matching assessment
+
+Background
+Recruitment positions, evaluation rules and candidate experience match each other. Materials include genuine screenings such as strong matching, competency bias, lack of years, missing critical information and insufficient evidence.
+
+List of documents
+- `Performance JD.txt ': Job duties, job requirements and rules against bias
+- `Assessment dimensions description.txt ': 4-D scoring calibration, weights, inter-conclusive and abnormal treatment
+- `resumes/`: 30 biographical notes of dissensitive candidates in a mixed PDF/Word format
+- `resumes.zip ': uploading a single file package consistent with the contents of the resumes directory, generated after conversion
+
+Description of use
+1. All persons, enterprises and numbers have been re-intensived and not correspond to the actual person or enterprise.
+2. Data retain field relationships in real business, time sequence, monetary constraints and abnormal patterns
+3. Harmonization of documentation UTF-8Encoding; CSV first line is field name, and the identification category field should be processed as text.
+4. No one may use the verification information in the "The Probator Retains" catalogue.

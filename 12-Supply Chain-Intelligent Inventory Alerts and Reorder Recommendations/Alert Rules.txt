@@ -1,0 +1,11 @@
+Rule version: INV-V2. 2
+Data cut-off: 2026-08-20
+
+1. Average sales per day = total/effective days of valid sales records. Mark "missing data" when less than 25 days are valid, without calculating the replenishment. Refunds are not deducted from sales and are analysed for quality.
+2. Stock supports = current stock/day averages. = 0-hour averages marked "demurrage/zero" and not divided by 0-0
+3. Emergency replenishment: days of support < = advance procurement.........................................................................................................................
+4. Recommended replenishment: not satisfied for emergency replenishment and existing inventory < safe stock >.
+5. Excess stocks: existing stocks > safe stocks x 3. The rest are normal stocks.
+6. Target inventory = average daily sales x (procurement advance + 14-day review cycle) + secure inventory. Recommended replenishment = max (0, complete target stock up - existing stock - in transit) and up to a multiple of the minimum order quantity.
+7. Projected cut-off date = data cut-off date + number of days to support stock-to-take down.
+8. Food beverages should also be informed of the risk of a conservancy period, but no forwarding quantity may be inferred from the information without providing a batch period.

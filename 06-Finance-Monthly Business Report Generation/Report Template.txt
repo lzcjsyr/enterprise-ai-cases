@@ -1,0 +1,27 @@
+Name of report: Business Data Bulletin, July 2026
+Target audience: Executive Board
+
+I, Executive summary (not exceeding 250 words)
+- Company sales, year-to-year comparison
+- Māori rate, cost rate and major changes
+- Three issues that require management attention
+
+II. Regional performance
+- Summarizing sales by region, year-on-year growth, ring growth, Māori and cost rates
+- High to low growth rates, same year
+
+Three, the store is unusual.
+- Sales fell by more than 15 per cent per year
+- Cost rate is over 20%.
+- Māori rate is below 25%.
+Each must refer to the door IID, the original amount and the computation, and the presumption of cause cannot be made to be a fact.
+
+IV. List of actions
+Field: Problem, evidence, cause assumptions, validation actions, area of responsibility, recommended duration...
+
+Five, data caliber.
+Increase in year-to-year = (sale for current month - same period last year)/sale for the same period last year
+Ring growth = (current-last month)/last month
+Māori rate = (sale-cost)/sale
+Cost rate = cost/sale
+All ratios are kept in 1 decimal; the denominator is 0-hour mark "uncalculated".
